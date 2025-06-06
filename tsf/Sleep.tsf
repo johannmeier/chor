@@ -1,0 +1,80 @@
+T: Sleep
+C: Eric Whitacre, Lyrics: Charles Anthony Silvestri
+
+sql:8
+
+s: Lento;_lontano_e_molto_legato
+s: key:Key_E*3 pp
+! : ; :d   !f   :m   ;r     :s    !f    :m   !s   :- ;- :d
+!  * * The !eve- ning _hangs_be-* !neath the !moon,*  *  A
+
+s: -5 5_
+!t,  :l, ;m     :r    !d    :r    !m    :- ;- :r    !d    :r  ;r   :m
+!sil- ver _thread_on* !dark- ened !dune. *  *  With !clos- ing eyes and
+
+sql:7.4
+s: -5 9_
+!m    :m  :- !d   :r !f   :r   ;m    :m  !s   :f   !m    :- ;- :-
+!rest- ing * !head I !know that sleep is !com- ing !soon. *  *  *
+
+sql:8
+s: -5 14_
+! :m'  !r' :d' ;t   :d'   !m   :m  !m   :- ;- :- !- . :l,
+!  Up- !on  my  pil- low, !save in !bed, *  *  * !   * A
+
+s: -5 19_
+!t,   :d   ;r    :m     !fi  :t  !m    :- ;- :s !fi  :fi ;m      :s
+!thou- sand pict- tures !fill my !head, *  *  I !can- not _sleep,_my*
+
+s: -5 23_
+!r     :m  ;r      :r     !m  :s ;m    :m    !r   :d  !m :- ;- :-
+!mind's_a-* _flight;_And* !yet my limbs seem !made of !lead. ***
+
+s: -5 27_
+! :l ;- :- !d'   :d' ;t    :t ! :  !d' :d' ;t :-
+!  If *  * !there are nois- es * * !in  the night *
+
+s: -5 31_
+! :l !d'     :d'   ;t    :t     ! :l_2    !t :d'  ;r'   :-
+!  A !fright-_ening_shad-_ow*** !  flick- !*ering- light; *
+
+s: -5 35_
+! : ; :l    !s :s   ;f   :f   !d'  :d' !t     :-  ;t    :-
+!* * * Then !I  sur- ren- der !un- to  !sleep, *   _Where*
+
+s: -5 39_
+!l      :-  !t :-  ;t    :-  ! :l   !t   :t  ;t     :-
+!clouds*    !of *   _dream*  !  give sec- ond sight. *
+
+s: -5 43_
+!- :- ; :l,   !d     :d  ;r    :m       !f   :s   !s    :- ;- :-
+!*  *   *What !dreams_may_come,_both*** !dark and !deep, *  *  *
+
+s: -5 47_
+!f   :- ;m  :- !f_8  :- !s :- ;- :- !- :-
+!dark *  and * !deep, * !   *  *  * !   *
+
+s: -5 51_
+!f   :- ;m  :- !f   :- ;- . :f_5  !d' :l !f :- ;m :-
+!dark *  and * !deep, ***    dark !    *  *  *  and *
+
+s: -5 55_
+!r   :- ;- . :f_5  !d' :l !f :- ;m_6 :- !f :- ;- :ta
+!deep *  *  * dark !    * !   *  un   * !   *  *  *
+
+sql: 6.9
+s: -5 59_
+!d'_5 :l ;s :d' !l :f ;s_10 :- !f :s ;f :s !l :s ;- :-
+!      *  *  *  !   to _sleep* !   *  *  * !   *  *  *
+
+s: -5 63_
+!d    :- ;- :  !r    :- ;- :  !d     :- ;- :- !r    :-  ;s_2  :-
+!sleep,*  *  * !sleep,*  *  * !sleep,*   *  * !sleep,*  _sleep,*
+
+s: -5 67_
+!l_8 :- ;f :d !r :- ;- :- !m   :s  ; :  !m   :s ; :
+!     *  *  * !   *  *  * !sle- ep, * * !sle- ep * *
+
+s: -5 71_
+!m   :s  ; :  !m   :s ; :  !m   :s  ; :  !m   :s  ; :  !!
+!sle- ep, * * !sle- ep * * !sle- ep, * * !sle- ep  * * !!
