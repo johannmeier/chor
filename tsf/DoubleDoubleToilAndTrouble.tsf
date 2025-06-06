@@ -2,49 +2,90 @@ T: Double, Double Toil and Trouble
 
 pulse: 144
 
-| : ; : : | : ; : : |fi     :fi .fi :- .f  :m     :si
-                     Thrice, and once   the hedge- pig
+s: k:Key_A
+! : ; : : ! : ; : :  !l,     :l, .l,  :- .l,  :s,    :t,
+!  * * * * * * * * * !Thrice, and once *  the  hedge- pig
 
-|fi :- ;- :- :- |- : ; : : | : ; : | : ; : | : ; :
- whind'd.
+!l,      :- ;- :- :- !- : ; : :  ! : ; :  ! : ; :  ! : ; :
+!whind'd. *  *  *  * !   * * * * !  * * * !  * * * !  * *
 
-| . | . . ; . . ; . . | . . ; . . ; . . | . . ; . . ; . .
+! . ! . . ; . . ; . . ! . . ; . . ; . . ! . . ; . . ; . .
+! * ! * * * * * * * * ! * * * * * * * * ! * * * * * * * *
 
-|fi   :fi .fi ;- .fi :m    :si   |fi :- |fi :fi .m :- .si   :fi :di'
-|Round a-  bout   the caul- dron |go,   |in  the poi-  son'd en- trails
+!l,  :l, .l,  ;-  .l, :s,    :t,   !l, :- !l, :l, .s,  :- .t,   :l, :m
+!Round a-  bout *   the caul- dron !go, * !in  the poi- *  son'd en- trails
 
-|d' :-  |fi  :fi  .fi :- .fi :m   :si_3 |fi :-
-|throw: |Toad that un-    der cold stone
+!ma    :-  !l,  :l,  .l, :- .l, :s,_2 :t, !l,   :-
+!throw: *  !Toad that un- *  der cold  *  !stone *
 
-|fi  :fi .m :-  .si :fi   :di' |d' :- |fi_9 .- .- ;- .- .- ;- .- .-
-|Days and nights had thir- ty- |one   |Toil,
+!l, :l,   .s,   :-  .t, :l,   :m   !ma :- !l,_9 .- .- ;- .- .- ;- .- .-
+!Days and nights *   had thir- ty- !one * !Toil,
 
-|l,  :l, .s :-  .t :l,   :m  |ma :- |l,_9 .- .- ;- .- .- ;- .- .-
-|Days and nights had thir- ty- |one  |Toil,
+!l, :- !l,   .- .- ;- .- .- ;- .- .- !ma  :-
+!got,  !Boil, *  *  *  *  *  *  *  * !pot. *
 
-|fi :- |fi .- .- ;- .- .- ;- .- .- |d' :-
- got,   Boil,                       pot.
+!l,  .l,  :- .l,  ;l, :l,  :l,  !l,   .l,  :- :- !l,  :- .l,  ;l, :l,   :l,
+!Dou- ble, *  dou- ble toil and !trou- ble, *  * !Fire *  burn and caul- dron
 
-|fi .fi :- .fi ;fi :fi :fi |fi .fi :- :- |fi :- .fi ;fi .fi :fi :fi
+!l,  .l,  :- :- ! : ;l,  ,l, .- !- :- ;- :- !- :-
+!bub- ble. *  * !  * Bub- ble * !   *  *  *  *  *
 
-|fi .fi :- :- | : ;fi ,f .- |- :- ;- :- |- :-
+!d   .d  .d ;d .di  .di ;r     .- .- !r .r  .r    ;r   .ri  .ri ;m    .- .- !m  .m  .m   ;m  .f  .f  :fi   .- .-
+!Fil- let of a  fen- ny  snake, *  * !In the caul- dron boil and bake, *  * !Eye of  newt and toe of  frog, *  *
 
-p:77
-|l :l :l ;l :li :li ;t :- :- |t :t :t ;t :d' :d' ;di' :- :- |di' :di' :di' ;di' :r' :r' :ri' :- :-
- *  *  *   *  *   *  *   *  *  p:144
-|t :t :fi ;t :d' :t ;fi :- :- |- :- |- :- ;- :-
+!r   .r  .l, ;r  .ma    .r ;l,   .- .- !- :- !- :- ;- :-
+!Wool of  bat and tongue of do(g) M  * !  :  !   *  *  *
 
-|- :- ;- :- |- :- ;- :- |- :- ;- :-
+!- :- ;- :- !- :- ;- :- !- :- ;- :-
+!   *  *  * !   *  *  * !   *  *  *
 
-|- :- ;- :- |- :- ;fi' :- |- :- :li :- |- :- ;- :- :- |- :- 
+!- :- ;- :- !- :- ;l, :- !- :- :l :- !- :- ;- :- :- !- :-
+!   *  *  * !   *  *   * !   *  *   * !   *  *  *  * !   *
 
-p:77 * * * * * * * * * * p:144
-|   : : ; : : ; : : ; : | : |fi  .fi :- .fi  :fi :m   :si |si   .fi :- :-
-                             Dou- ble,   dou- ble toil and trou- ble
+! . . ; . . ; . . ; . ! : !l,  .l,  :- .l,  :l, :s,  :t,  !t,   .l, :- :-
+! * * * * * * * * * * * * !Dou- ble, *  dou- ble toil and !trou- ble *  *
 
- *  *  *  *  *  *  *  *  p:77
-|- :- ;- :- :- |- :- :- | : : ; : : ; : : 
+!- :- ;- :- :- !- :- :- ! . . ; . . ; . .
+!   *  *  *  * !   *  * ! * * * * * * * *
 
- * * * * * * * * * * * * * * * * * * p:144
-| : : ; : : ; : : | : : ; : : ; : : |fi   :fi .fi ;- .fi :m    :si
-                                     Scale of  drag-  on, tooth of
+! . . ; . . ; . . ! . . ; . . ; . . !l,   :l, .l,   ;- .l, :s,   :t,
+! * * * * * * * * ! * * * * * * * * !Scale of  drag- *  on, tooth of
+
+!l,   :- !l,     :l, .s,  :- .t, :l, :m   !ma  :-
+!wolf, * !Witche- es' mum- *  my, maw and !gulf *
+
+!l, :l, .l,  :- .l,  :s,   :t,  !l,    :- !l,  :l, .s, :- .t, :l,  :m
+!Of  the rav- *  in'd salt- sea !shark, * !Root of hem- lock, dig'd in
+
+!ma   :- !l,   :- :- !l,  .l, :l, .l, :l, .l,  !l,   :- :-
+!dark. * !Dark, *  * !Liv- er  in  sa- ta- nic !Brew, * *
+
+!l,  .l, :l,  .l, :l,   .l, !t,  :- :- !t,  .t,   :t, .t, :t,    .t, !t,     :- :-
+!Gall of  goat and slips of !yew, *  * !Sli- ver'd in  the moon's e- !clipse, *  *
+
+!t,  .t, :t, .t, ;t,  .t,    !di   : : : : ! : : : :
+!Nose of  hen and roo- sters lips. * * * * ! * * * *
+
+!d     :d  .d   :- .d   ;d :d !t,   :- ! : : ! : :
+!Ditch- de- liv- *  er'd by a !drab. * ! * * ! * *
+
+!m   :m  .m   :- .m  !m    :m  :m     ! : : : : ! :
+!Make the gru- *  el !thick and slab. ! * * * * ! *
+
+!di :di .di   :- .di    :t, :ri  !di   :l,    !l, :l, .l,   :- .l,   :l,  :m   !ma   :ma
+!For in- gred- *  ients for  our !caul- dron, !For in- gred- *  ients for  our !caul- dron.
+
+!l,  .l,  :- .l,  :l, :l,  :l,  !l,   .l,  :- :-
+!Dou- ble, *  dou- ble toil and !trou- ble, *  *
+
+!l,  :- .l,  :l,  :l,   :l,   !l,  .l, :- :- :- :-
+!fire *  burn and  caul- dron !bub- ble *  *  *  *
+
+! : : ! : : ! : : ! : :
+! * * ! * * ! * * ! * *
+
+! : : ! : : ! : : ! : : !l, :l, .l,    :- .l,  :s, :t, !l,
+! * * ! * * ! * * ! * * !o-  pen locks, *  who- ev- er knocks.
+
+! : : ! : : ! l, :l, :l,     ! .l,  :l, .l, :la,    : :
+! * * ! * * ! O-  pen locks, !  who- ev- er  knocks! * *
