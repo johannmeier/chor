@@ -1,2 +1,7 @@
 /.idea/
 /chor.iml
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.tex
