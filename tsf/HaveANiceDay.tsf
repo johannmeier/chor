@@ -1,0 +1,92 @@
+T: Have a nice Day
+C: Lorenz Maierhofer(*1956)
+
+K: D-Dur
+sql: 7
+
+latex: \footnotesize
+
+!d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :t  :- ;l  !s  :f     ;m   :r   !!
+!Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh _oh*    oh   oh! !!
+!d   .r :m   .s   ;- :- !f  :- .f   ;- :- ! :s  :- ;f  !m  :r     ;d   :t,  !!
+!d   .r :m   .s   ;- :- !t  :- .t   ;- :- ! :r' :- ;d' !d' :-     ;l   :-   !!
+!Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh  *  *   oh!  *   !!
+!d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :s, :- ;s, !s, :- .s, ;l,  :t,  !!
+!Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh    *be  dum  dum !!
+
+s: A
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;-     :-  !r  :-     ;-     :-
+!Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;-     :-  !r  :-     ;-     :-
+!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- .la :la !s  :-     ;-     :-
+!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh    *oh  oh !oh,   *be    *dum dum
+!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
+
+!d   .r :m   .s   ;-     :-    !-  :m    ;r :d    !r    :s  ;fi  .l  :- .s   !- :-    ;-  :-
+!Have_a_nice_day******         !*move     in your !world_of>phan-ta-sy!***** !   *  *  *   *
+!d   .r :r   .m   ;-     :-    !-  :d    ;r :d    !r    :r  ;r   .d  :- .t,  !- :-    ;-  :-
+!d'     :-   .d'  ;- .d' :d'   !l  :s    ;s :s    !t    :t  ;s   .r' :- .r'  !- :-    ;-  :-
+!Dum.**       Have*   a   nice !day>move* in your !world_of>phan-ta-sy!***** !     *be dum dum
+!d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
+
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;-     :-  !r  :-     ;-     :-
+!Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;-     :-  !r  :-     ;-     :-
+!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- .la :la !s  :-     ;-     :-
+!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh    *oh  oh !oh,   *be    *dum dum
+!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
+
+s: *12 -5 $
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !    :m  ;- :r   !d  :- ;- :  !!
+!Isn't_it_fine,******          !     it's _made_for* !     you *  and !me. *  *  * !!
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !    :t, ;- :t,  !d  :- ;- :  !!
+!d'     :-   .-   ;ta .- :-    !l   :-   ;la   :-    !    :s  ;- :s   !d' :- ;- :  !!
+!oh*     *    *   _oh*    *    !oh   *    oh    *    !     you *  and !me. *  *  * !!
+!d      :-   .d   ;- .d  :d    !d   :d   ;d    :d    !    :s, ;- :s,  !d  :- ;- :  !!
+!dum,*   *    have*   a   nice !day, it's _made_for* !     you *  and !me. *  *  * !!
+
+s: -10 B
+!d'  .l   :- .d' :- :- !t  .s :- .t  :- :- !   :l :s   :f   !m    .f :- .s    :-  :-
+!l   .m   :- .l  :- :- !s  .m :- .s  :- :- !   :f  :m  :r   !d    .r :- .m    :-  :-
+!Summertime,*****      !wintertime,*****   !    on bad  and !rainy**     days,**
+!m' .d'   :- .m' :- :- !r' .t :- .r' :- :- !   :d' :t  :s   !s    .s :- .d'   :-  :-
+!l,  .l,  :- .l, :- :- !m  .m :- .m  :- :- !f  :-  :s  :-   !d       :- .d    :d  :t,
+!Summertime,*****      !wintertime,*****   !you *   and *   !me,*       *be    dum dum
+
+!d'  :l   :d'  :l    !t  .s :- .t    :- :-         !  .l   :- .l  :t   :d'  !r'   :d'  :t   :l
+!l   :m   :l   :m    !s  .m :- .s    :- :-         !  .f   :- .f  :s   :l   !t    :l   :s   :f
+!sum- mer, win- ter, !an-y*    *time, *  *     *   !*can't    *you hear the !voice that says to
+!m'  :d'  :m'  :d'   !r' .t :- .r'   :- :-         !  .d'  :- .d' :d'  :d'  !s    :    :    :
+!l,  :-   :l,  :l,   !m     :-       :- :m    .m   !f      :-     :-   :f   !s    :    :    :
+!dum, *    an-  y    !time,* *  *      **can't_you !hear*   *  *   *    the !voice!*    *    *
+
+s: *6                ^>dc*2
+!s  :- :fi :- !f :- :- :  !!
+!m  :- :ri :- !r :- :- :  !!
+!you *  and * !me *  *  * !!
+!   :  :   :  !  :  :  :  !!
+!   :  :   :  !  :  :  :  !!
+
+s: $
+!d  :d   :m  :s
+!d  :d   :d  :m
+!me. Move in  your
+!d' :d'  :d' :d'
+!d  :d   :d  :d
+
+s: *14 ^
+!l    :- :l  :- !la  :- :la :- !s  :- .s  :- .l  :t    !d   :- :- :
+!f    :- :f  :- !f   :- :f  :- !m  :- .m  :- .m  :m    !m   :- :- :
+!world*   of  * !phan-*  ta- * !sy, *have  *  a   nice !day! *  *  *
+!d'   :- :d' :- !f   :- :d' :- !d' :- .d' :- .d' :t    !l   :- :- :
+!f    :- :f  :- !f   :- :f  :- !d  :- .d  :- .d  :s,   !l   :- :- :
+
+s: *13 stimmlos
+!d .r :m .s :- :-     !- :m   :r    :d ! :m  :- :r   !d  :s  :d'   :  !!
+!d .r :m .s :- :-     !- :m   :r    :d ! :t, :- :t   !d  :f  :m    :  !!
+!hav_a_nice_day,***** ! it's made for  !  you *  and !me! Oh  yeah! * !!
+!d .r :m .s :- :-     !- :m   :r    :d ! :s  :- :s   !d' :l  :l    :  !!
+!d .r :m .s :- :-     !- :m   :r    :d ! :s, :- :s,  !d  :s, :d    :  !!
+
+
+
