@@ -6,6 +6,7 @@ sql: 7
 
 latex: \footnotesize
 
+
 !d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :t  :- ;l  !s  :f     ;m   :r   !!
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh _oh*    oh   oh! !!
 !d   .r :m   .s   ;- :- !f  :- .f   ;- :- ! :s  :- ;f  !m  :r     ;d   :t,  !!
@@ -15,18 +16,18 @@ latex: \footnotesize
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh    *be  dum  dum !!
 
 s: A
-!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;-     :-  !r  :-     ;-     :-
-!Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
-!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;-     :-  !r  :-     ;-     :-
-!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- .la :la !s  :-     ;-     :-
-!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh    *oh  oh !oh,   *be    *dum dum
-!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !ma  :-     ;-     :-  !r  :-     ;-     :-
+!Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;-     :-  !r  :-     ;-     :-
+!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s    !la  :- .la ;- .la :la !s  :-     ;-     :-
+!Dum.**       Have*   a   nice !day, *    *     oh   !oh     *oh    *oh  oh !oh,   *be    *dum dum
+!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m    !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
 
 !d   .r :m   .s   ;-     :-    !-  :m    ;r :d    !r    :s  ;fi  .l  :- .s   !- :-    ;-  :-
-!Have_a_nice_day******         !*move     in your !world_of>phan-ta-sy!***** !   *  *  *   *
+!Have_a_nice_day******         !*move     in your !world_of* phan-ta->sy!*** !   *  *  *   *
 !d   .r :r   .m   ;-     :-    !-  :d    ;r :d    !r    :r  ;r   .d  :- .t,  !- :-    ;-  :-
 !d'     :-   .d'  ;- .d' :d'   !l  :s    ;s :s    !t    :t  ;s   .r' :- .r'  !- :-    ;-  :-
-!Dum.**       Have*   a   nice !day>move* in your !world_of>phan-ta-sy!***** !     *be dum dum
+!Dum.**       Have*   a   nice !day>move* in your !world_of* phan-ta->sy!*** !     *be dum dum
 !d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
 
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;-     :-  !r  :-     ;-     :-
@@ -48,10 +49,10 @@ s: *12 -5 $
 s: -10 B
 !d'  .l   :- .d' :- :- !t  .s :- .t  :- :- !   :l :s   :f   !m    .f :- .s    :-  :-
 !l   .m   :- .l  :- :- !s  .m :- .s  :- :- !   :f  :m  :r   !d    .r :- .m    :-  :-
-!Summertime,*****      !wintertime,*****   !    on bad  and !rainy**     days,**
+!Summer-**   _time,**  !winter-**  time,** !    on bad  and !rainy**     days,**
 !m' .d'   :- .m' :- :- !r' .t :- .r' :- :- !   :d' :t  :s   !s    .s :- .d'   :-  :-
 !l,  .l,  :- .l, :- :- !m  .m :- .m  :- :- !f  :-  :s  :-   !d       :- .d    :d  :t,
-!Summertime,*****      !wintertime,*****   !you *   and *   !me,*       *be    dum dum
+!Summer-**   _time,**  !winter-** time,**  !you *   and *   !me,*       *be    dum dum
 
 !d'  :l   :d'  :l    !t  .s :- .t    :- :-         !  .l   :- .l  :t   :d'  !r'   :d'  :t   :l
 !l   :m   :l   :m    !s  .m :- .s    :- :-         !  .f   :- .f  :s   :l   !t    :l   :s   :f
