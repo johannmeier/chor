@@ -12,7 +12,7 @@ clean:
 
 %.tex: tsf/%.tsf
 	echo "tsf -> tex"
-	java -jar ../TonicTo/target/TonicTo-1.0-SNAPSHOT.jar $< $@
+	java -jar ../tsf-to/target/tsf-to-1.0-SNAPSHOT.jar $< $@
 
 
 %.pdf: %.tex

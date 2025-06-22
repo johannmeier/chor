@@ -1,55 +1,64 @@
 T: Double, Double Toil and Trouble
 
-pulse: 144
+c: bpm: 144
 
-s: k:Key_A
+latex: \footnotesize
+sql: 1.2cm
+
+s: key:A
 ! : ; : : ! : ; : :  !l,     :l, .l,  :- .l,  :s,    :t,
-!  * * * * * * * * * !Thrice, and once *  the  hedge- pig
+!  * * * * * * * * * !Thrice,_and_once_the_hedge-pig******
 
+sql: 0.82cm
 !l,      :- ;- :- :- !- : ; : :  ! : ; :  ! : ; :  ! : ; :
-!whind'd. *  *  *  * !   * * * * !  * * * !  * * * !  * *
+!whind'd.*   *  *  * !   * * * * !  * * * !  * * * !  * *
 
-! . ! . . ; . . ; . . ! . . ; . . ; . . ! . . ; . . ; . .
-! * ! * * * * * * * * ! * * * * * * * * ! * * * * * * * *
+sql: 1.22cm
+   ! . ! . . ; . . ; . . ! . . ; . . ; . . ! . . ; . . ; . .
+t: ! * ! * * * * * * * * ! * * * * * * * * ! * * * * * * * *
 
+sql: 1.5cm
 !l,  :l, .l,  ;-  .l, :s,    :t,   !l, :- !l, :l, .s,  :- .t,   :l, :m
-!Round a-  bout *   the caul- dron !go, * !in  the poi- *  son'd en- trails
+!Round _a-bout* *   the caul- dron !go, * !in _the_poi-*  *son'd en- trails
 
 !ma    :-  !l,  :l,  .l, :- .l, :s,_2 :t, !l,   :-
-!throw: *  !Toad that un- *  der cold  *  !stone *
+!throw: *  !Toad _that_un-**  der cold  *  !stone *
 
-!l, :l,   .s,   :-  .t, :l,   :m   !ma :- !l,_9 .- .- ;- .- .- ;- .- .-
-!Days and nights *   had thir- ty- !one * !Toil,
+!l, :l,   .s,   :-  .t, :l,   :m   !ma :- !l,_4.5 .- .- ;- .- .- ;- .- .-
+!Days and _nights*   had thir- ty- !one * !Toil,**
 
-!l, :- !l,   .- .- ;- .- .- ;- .- .- !ma  :-
-!got,  !Boil, *  *  *  *  *  *  *  * !pot. *
+!l,  :- !l,   .- .- ;- .- .- ;- .- .- !ma  :-
+!got, * !Boil,*   *  *  *  *  *  *  * !pot. *
 
+sql: 1.32cm
 !l,  .l,  :- .l,  ;l, :l,  :l,  !l,   .l,  :- :- !l,  :- .l,  ;l, :l,   :l,
-!Dou- ble, *  dou- ble toil and !trou- ble, *  * !Fire *  burn and caul- dron
+!Dou-ble,*   *dou- ble toil and !trou-ble,* *  * !Fire   *burn and caul- dron
 
 !l,  .l,  :- :- ! : ;l,  ,l, .- !- :- ;- :- !- :-
-!bub- ble. *  * !  * Bub- ble * !   *  *  *  *  *
+!bub-ble.* *  * !  * _Bub-ble* * !   *  *  *  *  *
 
-!d   .d  .d ;d .di  .di ;r     .- .- !r .r  .r    ;r   .ri  .ri ;m    .- .- !m  .m  .m   ;m  .f  .f  :fi   .- .-
-!Fil- let of a  fen- ny  snake, *  * !In the caul- dron boil and bake, *  * !Eye of  newt and toe of  frog, *  *
+!d   .d  .d ;d .di  .di ;r     .- .- !r .r  .r    ;r   .ri  .ri ;m    .- .- !m  .m  .m    ;m  .f  .f  :fi   .- .-
+!Fil-let* of a  fen-ny*  snake,*   * !In the caul-dron_boil_and_bake,****** !Eye_of_newt** _and_toe_of**  frog,*  *
 
-!r   .r  .l, ;r  .ma    .r ;l,   .- .- !- :- !- :- ;- :-
-!Wool of  bat and tongue of do(g) M  * !  :  !   *  *  *
+sql: 1.65cm
+!r   .r  .l,   ;r  .ma    .r ;l,       .- .- !- :- !- :- ;- :-
+!Wool_of_bat**and_tongue_of_do(g)_M***** !  *  !   *  *  *
 
+sql: 1.10cm
 !- :- ;- :- !- :- ;- :- !- :- ;- :-
-!   *  *  * !   *  *  * !   *  *  *
+t: !   *  *  * !   *  *  * !   *  *  *
 
 !- :- ;- :- !- :- ;l, :- !- :- :l :- !- :- ;- :- :- !- :-
-!   *  *  * !   *  *   * !   *  *   * !   *  *  *  * !   *
+t: !   *  *  * !   *  *   * !   *  *   * !   *  *  *  * !   *
 
 ! . . ; . . ; . . ; . ! : !l,  .l,  :- .l,  :l, :s,  :t,  !t,   .l, :- :-
-! * * * * * * * * * * * * !Dou- ble, *  dou- ble toil and !trou- ble *  *
+! * * * * * * * * * * * * !Dou-ble,* * _dou-ble* toil and !trou-ble* *  *
 
 !- :- ;- :- :- !- :- :- ! . . ; . . ; . .
-!   *  *  *  * !   *  * ! * * * * * * * *
+t: !   *  *  *  * !   *  * ! * * * * * * * *
 
 ! . . ; . . ; . . ! . . ; . . ; . . !l,   :l, .l,   ;- .l, :s,   :t,
-! * * * * * * * * ! * * * * * * * * !Scale of  drag- *  on, tooth of
+! * * * * * * * * ! * * * * * * * * !Scale of _drag->on*, tooth of
 
 !l,   :- !l,     :l, .s,  :- .t, :l, :m   !ma  :-
 !wolf, * !Witche- es' mum- *  my, maw and !gulf *
@@ -82,7 +91,7 @@ s: k:Key_A
 !fire *  burn and  caul- dron !bub- ble *  *  *  *
 
 ! : : ! : : ! : : ! : :
-! * * ! * * ! * * ! * *
+t: ! * * ! * * ! * * ! * *
 
 ! : : ! : : ! : : ! : : !l, :l, .l,    :- .l,  :s, :t, !l,
 ! * * ! * * ! * * ! * * !o-  pen locks, *  who- ev- er knocks.

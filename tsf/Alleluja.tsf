@@ -2,46 +2,46 @@ T: Alleluja
 C: Gordon Young
 
 K: D-Dur
-sql: 9.6
+sql: 1.5cm
 latex: \footnotesize
 
-s: Key_D
-s: p*6                                                    mp
+s: Key_D**
+s: p *  *    *   *   *   *    *   *  *   *   *   *   *    mp
 !l, .- ,l,  :l, .l, :l, .l,  !t, .- ,t, :t, .t, :t, .t,  !d  .- ,d  :d  .d  :d  .d   !r  .- ,r  :r  .r  :r  .r
 !l, .- ,l,  :l, .l, :l, .l,  !l, .- ,l, :l, .l, :l, .l,  !l, .- ,l, :l, .l, :l, .l,  !t, .- ,t, :t, .t, :t, .t,
 !Al-    *le- lu- ja, al- le- !lu-  *ja,  al- le- lu- ja! !Al-   *le- lu- ja, al- le- !lu-   *ja, al- le- lu- ja!
 !           :       :        !          :       :        !          :       :l  .l   !l  .- ,l  :l  .l  :l  .l
 !           :       :        !          :       :        !          :       :        !          :       :
 
-s: mf*6                                                   f
+s: mf * *    *   *   *   *    *   *  *   *   *   *   *    f
 !m  .- ,m   :m  .m  :m  .m   !s  .- ,s  :s  .s  :s  .s   !l  .- ,l  :l  .l  :l  .l   !t  .- ,t  :t  .t  :t  .t
 !d  .- ,d   :d  .d  :d  .d   !r  .- ,r  :r  .r  :r  .r   !m  .- ,m  :m  .m  :m  .m   !m  .- ,m  :m  .m  :m  .m
 !Al-    *le- lu- ja, al- le- !lu-  *ja,  al- le- lu- ja! !Al-   *le- lu- ja, al- le- !lu-   *ja, al- le- lu- ja!
 !l  .- ,l   :l  .l  :l  .l   !t  .- ,t  :t  .t  :t  .t   !l  .- ,l  :l  .l  :l  .l   !si .- ,si :si .si :si .si
 !l  .- ,l   :l  .l  :l  .l   !s  .- ,s  :s  .s  :s  .s   !f  .- ,f  :f  .f  :f  .f   !m  .- ,m  :m  .m  :m  .m
 
-s: ff*6                                                   f
+s: ff * *    *   *   *   *    *   *  *   *   *   *   *    f
 !d' .- ,d'  :d' .d' :d' .d'  !d' .- ,d' :d' .d' :d' .d'  !t  .- ,t  :t  .t  :t  .t   !t  .- ,t  :t  .t  :t  .t
 !m  .- ,m   :m  .m  :m  .m   !f  .- ,f  :f  .f  :f  .f   !r  .- ,r  :r  .r  :r  .r   !m  .- ,m  :m  .m  :m  .m
 !Al-    *le- lu- ja, al- le- !lu-  *ja,  al- le- lu- ja! !Al-   *le- lu- ja, al- le- !lu-   *ja, al- le- lu- ja!
 !l  .- ,l   :l  .l  :l  .l   !l  .- ,l  :l  .l  :l  .l   !s  .- ,s  :s  .s  :s  .s   !s  .- ,s  :s  .s  :s  .s
 !l  .- ,l   :l  .l  :l  .l   !r  .- ,r  :r  .r  :r  .r   !s  .- ,s  :s  .s  :s  .s   !d  .- ,d  :d  .d  :d  .d
 
-s: mf*6                                                   mp
+s: mf * *    *   *   *   *    *   *  *   *   *   *   *    mp
 !t  .- ,t   :t  .t  :t  .t   !t  .- ,t  :t  .t  :t  .t   !s  .- ,s  :s  .s  :s  .s   !s  .- ,s  :s  .s  :s  .s
 !m  .- ,m   :m  .m  :m  .m   !r  .- ,r  :r  .r  :r  .r   !r  .- ,r  :r  .r  :r  .r   !d  .- ,d  :d  .d  :d  .d
 !Al-    *le- lu- ja, al- le- !lu-  *ja,  al- le- lu- ja! !Al-   *le- lu- ja, al- le- !lu-   *ja, al- le- lu- ja!
 !l  .- ,l   :l  .l  :l  .l   !f  .- ,f  :f  .f  :f  .f   !t  .- ,t  :t  .t  :t  .t   !m  .- ,m  :m  .m  :m  .m
 !f  .- ,f   :f  .f  :f  .f   !t, .- ,t, :t, .t, :t, .t,  !m  .- ,m  :m  .m  :m  .m   !l, .- ,l, :l, .l, :l, .l,
 
-s: p*6                                                    pp
+s: p *  *    *   *   *   *    *   *  *   *   *   *   *    pp
 !f  .- ,f   :f  .f  :f  .f   !f  .- ,f  :f  .f  :f  .f   !m  .- ,m  :m  .m  :m  .m   !m  .- ,m  :m  .m  :m  .m
 !d  .- ,d   :d  .d  :d  .d   !t, .- ,t, :t, .t, :t, .t,  !t, .- ,t, :t, .t, :t, .t,  !l, .- ,l, :l, .l, :l, .l,
 !Al-    *le- lu- ja, al- le- !lu-  *ja,  al- le- lu- ja! !Al-   *le- lu- ja, al- le- !lu-   *ja, al- le- lu- ja!
 !l  .- ,l   :l  .l  :l  .l   !r  .- ,r  :r  .r  :r  .r   !r  .- ,r  :r  .r  :r  .r   !d  .- ,d  :d  .d  :d  .d
 !r  .- ,r   :r  .r  :r  .r   !s, .- ,s, :s, .s, :s, .s,  !si .- ,si :si .si :si .si  !l, .- ,l, :l, .l, :l, .l,
 
-s: mf *5 -10 $
+s: mf *  *   *    *  $
 !r  :r  :r   !d  :- :-
 !t, :t, :l,  !s, :- :-
 !Al- le- lu- !ja  *  *
@@ -55,14 +55,14 @@ s:f
 !s  :- :s   !s  :- :s   !s  :s     :s   !s  :- :-
 !d  :- :s,  !d  :- :s,  !d  :r     :s,  !d  :- :-
 
-s: crescendo*5 ff* -10 decrescendo
+s: crescendo**** ff decrescendo**
 !m  :- :s   !d' :- :t   !l   :l  :- .l   !s  :- :-
 !d  :- :r   !m  :- :m   !m   :r  :- .r   !m  :- :-
 !Al- *  le- !lu- *  ja, !al-  le-   *lu- !ja! *  *
 !s  :- :s   !s  :- :s   !s   :fi :- .fi  !t  :- :-
 !d  :- :t,  !s, :- :t,  !d   :r  :- .r   !s  :- :-
 
-s: mf*6                f>DC*6
+s: mf *  *    *   *  *  f   *   *    *    *  >dc
 !s  :s  :f   !s  :- :- !s  :l  :d'  !t   :- :- !!
 !r  :r  :d   !r  :- :- !r  :f  :f   !m   :- :- !!
 !Al- le- lu- !ja, *  * !al- le- lu- !ja!  *  * !!

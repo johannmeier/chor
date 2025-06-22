@@ -1,0 +1,99 @@
+T: Only You
+C: Vincent John Martin
+
+smaller:
+latex: \scriptsize
+
+sql: 1.12cm
+
+s: Intro**
+s: key:G
+!m .f :s .m :- :- !m .f :s .m :- :- !f .m :d .s, :- :- !f .m :d .s, :- :-
+!Ba_da_da_da***** !ba_da_da_da***** !ba_da_da_da*****  !ba_da_da_da*****
+!s,_16 :-   :- :- !-    :-    :- :- !-    :-     :- :- !- :- :- :-
+!Ooh*   * *  *  * !   *  *  *  *  * !   *  *  *   *  * !
+!m_16  :-   :- :- !-    :-    :- :- !-    :-     :- :- !- :- :- :-
+!m_16  :-   :- :- !-    :-    :- :- !-    :-     :- :- !- :- :- :-
+
+sql: 1.49cm
+s: p:A
+!m    .m  :m   .m  :f    .m  :r .d       !- .d   :d   .d  :t,  .d :t, .l,  !-   :-     :- .m :m .m_0.5
+!1.Looking_from_the_window_above*******  !   it's like a  sto- ry of  love !  * *  **   can _you>hear*
+!2.Sometimes_when_I_think_of_your_name********  * and it's on- ly _a>game* !  * *  **  and _I_need*
+!3.This_is_gonna_take_a_long_time******* !   *    and  I>wonder_what's_mine,**** !  * *  **  _can't_take_no**
+!     .s  :m       :     .s  :r          !  .s   :m       :    .s :m       ! .f :d     :  .d :l,
+!      Ba  da   *   *     ba  da *       !   ba   da   *   *    ba da  *   !  ba da *   *  ba da
+!s    .s  :s   .s  :l    .s  :f .m       !- .m   :m   .m  :r   .m :r  .d   !-   :-     :- .s :s .s_0.5
+!1.Looking_from_the_window_above*******  !   it's like a  sto- ry of  love !  * *  **   can _you>hear*
+!2.Sometimes_when_I_think_of_your_name********  * and it's on- ly _a>game* !  * *  **  and _I_need*
+!3.This_is_gonna_take_a_long_time******* !   *    and  I>wonder_what's_mine,**** !  * *  **  _can't_take_no**
+!d        :-   .d  :t,       :- .t,      !l,     :-   .s, :-      :-  .s,  !f,  :- .f, :f,   :- .f,
+!Ba    *   *    ba  ba    *   *  ba      !ba *    *    ba  ba   *  *   ba  !ba * *  ba  ba *  *  ba
+
+!-_2 :- .f ,m :r   :-      !m   .m   :m  .m  :f= .m  :r   .d      !- .d=0.5 :d   .d  :t,  .d   :t, .l,
+!  *  *  *  *  me? * *  *  !Come_back_on-**ly yes- *  ter- day    !   *  mov-ing* fur- ther a-  way
+!  *  *  *  *  you. **  *  !List'n-ing*to>the*words_that* you say !    it's get- ting har- der to stay
+!  *  *  *  * _more.* * *  !Won-der*if>you,ll* un-  **der-stand,  !   it's just the touch_of>your_hand***
+! .s :m       :  .r :t,    !    .s   :m      :   .s  :r           !  .s     :m       :    .s   :m
+!  ba da *  *  *  ba da *  !     ba   da  *   *   ba  da     *    !   ba     da   *   *    ba   da  *
+!-   :-       :s    :-     !s   .s   :s  .s  :l= .s   :f   .m     !- .m=0.5 :m   .m  :r   .m   :r  .d
+!  *  *  *  *  me? * *  *  !Come_back_on-**ly yes- *  ter- day    !   *  mov-ing* fur- ther a-  way
+!  *  *  *  *  you. **  *  !List'n-ing*to>the*words_that* you say !    it's get- ting har- der to stay
+!  *  *  *  * _more.* * *  !Won-der*if>you,ll* un-  **der-stand,  !   it's just the touch_of>your_hand***
+!d   :-  .d   :s,   :- .s, !d        :-  .d  :t,     :-   .t,     !l,       :-   .l, :s,       :-  .s,
+!ba * *   ba*  ba  * *  ba !ba   *    *   ba  ba  *   *    ba     !ba *      *    ba  ba   *    *   ba
+
+s: ** *  *   *  *     *   *      * *  *  *  *  * *  *   *   %>Refrain
+!-   :-     :- .m    :m  .m=2.5 !-   :- .f ,m :r   :-     !!     :f  .f :f    .f :m  .f
+!  *  *  *    *won't you hear   !  *  *  *  *  me? * *  * !!      All I  need-ed* was the
+!  *  *  *    *when  I   see    !  *  *  *  *  you. **  * !!      *   *  *     *  *   *
+!  *  *  *   *  be- _hind_a*    !closed***    *door **  * !!      *   *  *     *  *   *
+! .f :d     :  .d    :l,        ! .s :m       : .r :t,    !!d_4  :-     :-       :-
+!  ba da *   *  ba    da  *     !  ba da *  *  * ba da *  ||Ooh   *   *  *     *  *   *
+!-   :-     :- .s    :s  .s=2.5 !-   :-       :s   :-     !!     :l  .l :l    .l :s  .l
+!     *  *   * *won't you hear  !  *  *  *  *  me? * * *  !!      All I  need-ed* was the
+!  *  *  *    *when  I   see    !  *  *  *  *  you. **  * !!      *   *  *     *  *   *
+!  *  *  *   *  be- _hind_a*    !closed***    *door **  * !!      *   *  *     *  *   *
+!f,  :- .f, :f,      :-  .f,    !d   :- .d    :t,  :- .t, !!f,_4 :-     :-       :-
+!ba * *  ba  ba *     *  ba     !ba * * _ba*   ba * *  ba !!Ooh   *   *  *     *  *   *
+
+!m   .r  :- .r    :- :- ! :m  .m :m    .m :r  .m   !r   .d :- .d   :- :- .d
+!love you   *gave, *  * !  all I  need-ed* for an- !oth- er *  day, *  *  and
+!t,_11.5 :-       :- :- !d :-    :-       :-       !m      :-      :- :- .m
+!     *   *  *     *  * !   *  *  *     *  *   *   !     *  *  *    *  *  and
+!s   .f  :- .f    :- :- ! :s  .s :s    .s :f  .s   !f   .m :- .s   :- :- .s
+!love you   *gave, *  * !  all I  need-ed* for an- !oth- er *  day, *  *  and
+!s,_11.5 :-       :- :- !d :-    :-       :-       !l,     :-      :- :- .s,
+!     *   *  *     *  * !   *  *  *     *  *   *   !     *  *  *    *  *  and
+
+sql: 1.12cm
+s: * *   *   *   *  *      *   *  *  *   *  *    ^>Fine*
+!f  :m  :r  .d  :- .r     !-  :- :- .f  :m .d    !-    :-     :-   :-  !-   :-    :-   :-
+!all I   ev- er    *knew, !    *  *  on- ly_you* !   *  *  *   * *  *  !  *  *  *  * *  *
+!d  :d  :l, .d  :- .t,    !-  :- :- .t, :t, .s,  !- .s :m     : .s :m  ! .s :m    : .s :m
+!all I   ev- er    *knew, !    *  *  on- ly_you* !   Ba da *   * ba da !  ba da *  * ba da
+!l  :s  :f  .m  :- .s     !-  :- :- .s  :s  .m   !-    :-     :-   :-  !-   :-    :-   :-
+!all I   ev- er    *knew, !    *  *  on- ly_you* !   *  *  *   * *  *  !  *  *  *  * *  *
+!f, :f, :f, .f, :- .s,    !-  :- :- .s, :s, .d   !-    :- .d  :d   :-  !d   :- .d :d   :-
+!all I   ev- er    *knew, !    *  *  on- ly_you* !   *  *  Ba  ba * *  !ba * *  ba ba * *
+
+s: p:B
+!m .d :     :s .m  :      !f .m :d .s, :-   :-       !f .m :d .l, :- .l, :s, .l, !f .m :d .s, :-   :-
+!Ba da *  *  ba da  *  *  !ba da da da  * *  *   *   !ba da da da  *  da  da  da !ba da da da, *    *
+!  .s :m    :  .s  :r     !  .s :m     : .s :m       !  .f :d     :  .f  :d      !  .s :m     : .r :t,
+!   Ba da *  *  ba  da *  !   ba da *   * ba da  *   !   ba da *   *  ba  da  *  !   ba da  *  * ba da
+!     :     :      :      !     :      :    :        !     :      :      :       !     :      :    :
+!d    :- .d :t,    :- .t, !l,   :- .l, :s,  :-  .s,  !f,   :- .f, :f,    :-  .f, !d    :- .d  :s,  :-
+!Ba *  *  ba ba  *  *  ba !ba *  *  ba  ba * *   ba  !ba *  *  ba  ba  *  *   ba !ba *  *  ba  ba   *
+
+s: * * *  *  *  *  *  *   *  *   *  *   *  *  *  *   *  *  *   *    *  *   *   *   *  *   *  *  *    >ds>(Ref.)**
+!m .d :     :s .m :      !f .m  :d .s, :-    :-     !f .m :d  .l,  :- .l, :s, .l, !f .m  :d .s :-   :-
+!ba da *  *  ba da *  *  !ba da  da da  *  *  *  *  !ba da da  da   *  da  da  da !ba da  da da * *  *    *
+!  .s :m    :  .s :r     !  .s  :m     :  .s :m     !  .f :d       :  .f  :d      !  .s  :m    : .r :t,
+!   ba da *  *  ba da *  !   ba  da *   *  ba da *  !   ba da *     *  ba  da  *  !   ba  da *  * ba da   *
+!     :m .d :     :s .m  !  .s, :d .m  :s .f :m .d  !  .f, :l, .d  :f .d  :l  .f  !  .s, :d .m :r .d :t, .s,
+!   *  Ba da  * *  ba da !   ba  da da  da da da da !   ba  da  da  da da  da  da !   ba  da da da da da  da
+!d    :- .d :t,   :- .t, !l,    :- .l, :s,   :- .s, !f,    :-  .f, :f,    :-  .f, !d     :- .d :s,   :-
+!ba *  *  ba ba *  *  ba !ba *   *  ba  ba *  *  ba !ba *   *   ba  ba *   *   ba !ba *   *  ba ba. * *   *
+
+latex: \normalsize Abfolge: Intro - A (1. Str., Ref.) - A (2. Str., Ref.) - B - Ref. - A (3. Str., Ref.)
