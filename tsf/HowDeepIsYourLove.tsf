@@ -2,75 +2,125 @@ T: How deep is your love
 C: Morice Ernest, Robin Hugh, Barry Alan Gibb
 c: Z: Carsten Gerlitz
 
-latex: \footnotesize
+small:
 
-sql: 1.07cm
+sql: 1.10cm
 
+c: page 48
 s: key:E
-! :m  :r  .r  :- .d_4.25  !- :f  :d :r  !  :m    :r  .r  :- .d  !- :d   : .s, :d .r
-!>Doo_doo_doo*** *doo,    !   *   *  *  !   doo* doo_doo*  *doo !   doo And_when_you***
-! :s, :t, .s, :- .f,_4.25 !- :l, :- :f, !  :s,   :s, .s, :- .f, !- :f,  : .s, :d .r
-! :d  :m  .m  :- .s,      !- :-  :- :-  !d :- .d :m  .m  :- .s, !- :s,  :     :
-!>Doo_doo_doo*** *doo,    !   *   *  *  !doo *doo doo_doo* *doo !   doo  *  *  *  *
+! :m  :r. .r^   :- .d_4.25  !- :f  :d :r  !  :m    :r.  .r^  :- .d  !- :d   : .s, :d .r
+!>Doo_doo_doo*** *doo,      !   *   *  *  !   doo>doo_doo***   *doo !   doo And_when_you***
+! :s, :t,. .s,^ :- .f,_4.25 !- :l, :- :f, !  :s,   :s,. .s,^ :- .f, !- :f,  : .s, :d .r
+!>Doo_doo_doo*** *doo,      !   *   *  *  !   doo>doo_doo***   *doo !   doo And_when_you***
+! :d  :m.  .m^  :- .s,      !- :-  :- :-  !d :- .d :m.  .m^  :- .s, !- :s,  :     :
+!>Doo_doo_doo***  *doo,     !   *   *  *  !doo  >doo_doo_doo_doo***** !   doo  *  *  *  *
 
 sql: 1.5cm
 !m   :m .d  ;r   :m   .d      !- :   :di .r   :m   .f    !- .f :f  .r    :- .f   :- .m_0.5
-!rise in_the* mor->ning_sun** !    *I**feel_your_touch   !   in_the* pour->ing**   *rain.
+!rise in_the* mor->ning_sun** !    *I**feel_your_touch   !   in _the_pour-**  ing   *rain.
 !d   :d .d  ;s,  :s,  .l,     !- :   :l, .t,  :di  .d    !- .d :d   .t,  :- .si, :- .s_0.5
-!d   :- .d  ;m   :-   .f      !- :r  :m  .m   :m   .r    !- .r :l   .si  :- .m   :- .s
-!Doo    *doo doo      *doo    ! doo,>I***feel_your_touch !   in_the* pour->ing**   *rain.
+!rise in_the* mor->ning_sun** !    *I**feel_your_touch   !   in _the_pour-** ing   *rain.
+!d   :- .d  ;m   :-   .f      !- :r  :m  .m   :m   .r    !- .r :l   .si  :- .m   :- .s_0.5
+!Doo    *doo doo      *doo    ! doo,>I***feel_your_touch !   in _the_pour-** ing   *rain.
 
 !-_2 .r  :-     : .m :f .s    !- .s  :s   .s   :s   .s  :- .s   !- .m :- .r  : .m :f   .s
-!     *      *****and_the_mo- !>ment,_that**you wan-der**  far !>from* * me  * I  wan-na*
+!     *      *****and_the_mo- !>ment,_that**you _wan-der** far !>from* * me  * I  wan-na*
 !-_2 .f, :-     :-   :        !r_8   :m        :t,      :-      !d    :-     :-   :-
 !     *   *  *   *  *  *  *   !Ooh,*  *    *    *    *   *  *   !   *  *  *   * *  *    *
-!-       :- .s, :s,  :        !d     :-        :m       :-      !l    :-     :s   :-
-!     *    *doot _doo.* *  *  !Ooh*   *    *    *    *   *  *   !   *  *  *   * *  *    *
+!-_1.5   :- .s, :s,  :        !d_8   :-        :m       :-      !l    :-     :s   :-
+!     *    *doot _doo.* *  *  !Ooh,*  *    *    *    *   *  *   !   *  *  *   * *  *    *
 
-!f   .f  :f .f :f   :m .r_2.5  !- :d  :  .d  :d  .l    !- .l :- .l :- .d' :l .r'
-!feel you in my arms _a->gain* !   *   ***and_you_come !  to *  me *  on  _a_sum-*
-!d       :-    :-   :-         !  :l, :l,    :-        !m    :r    :m     :d
-!ooh*     *  *  *    *  *      !  doot doo*   *   *    !ah,*  *  *  *  *   *  *
-!r       :- .r :r   :-         !  :s, :s,    :-        !f    :-    :-     :-
-!ooh*    *doot  doo  *  *      !  doot doo*   *   *    !ah,*  *  *  *  *   *  *
+c: page 47
+!f   .f  :f .f :f   :m .r_2.5  !- :d   :  .d  :d  .l    !- .l :- .l :- .d' :l .r'
+!feel you in my arms _a->gain* !   *    ***and_you_come !  to *  me *  on  _a_sum-*
+!d       :-    :-   :-         !  :l,. :l,^   :-        !m_4  :r    :m     :d
+!ooh*     *  *  *    *  *      !  doot doo*    *   *    !ah,*  *  *  *  *   *  *
+!r       :- .r :r   :-         !  :s,. :s,^   :-        !f    :-    :-     :-
+!ooh*    *doot  doo  *  *      !  doot  doo*   *   *    !ah,*  *  *  *  *   *  *
 
-!- .t' :- .s   :- .s   :l .d'   !- .l :s   .l   :- .s   :m  .s     ! .d :- .ta,  :- :d  .r
-!>-mer-* *breeze ***keep_me_warm !>in_your_love*** ***then_you_soft- !  ly   *leave   *and it's
+!- .t  :- .s   :- .s   :l .d'    !- .l :s   .l   :- .s   :m  .s      ! .m :- .r     :- :d  .r
+!>mer-* *breeze ***keep_me_warm !>in_your_love*** ***then_you_soft- !  ly   *leave    *and it's
+!t,_3  :fi     :m      :  .f     !-    :    .m   :-      :   .r      ! .d :- .ta,   :- :d  .r
+!   *   *  *    *  *      *warm  !   *      *love *  *       *soft-  !  ly   *leave    *and it's
+!m     :-      :-      :  .r     !-    :    .f   :-      :   .ta     ! .ta :- .ta   :- :d  .r
+!   *   *  *    *  *      *warm  !   *      *love *  *       *soft-  !  ly    *leave   *and it's
 
 s: %
-   !m  :s  .l   :- .d' :m'    !- : .m  :m   .m  :m   .m     !- :- :- :-
-w: !me, you _need*  to  show: ! *How_deep_is_your_love,**** !   *  *  *
+!m  :s  .l   :- .d' :m'    !- : .m  :m   .m  :m   .m     !-    :-       :-    :-
+!me, you _need*  to  show: ! *How_deep_is_your_love,**** !  *   *   *    *  *  *  *
+!m  :m  .r   :- .f  :l     !- : .d  :d   .d  :d   .d     ! .s, :d  .t,  :- .l :- .s
+!me, you _need*  to  show: ! *How_deep_is_your_love,**** !  so  how_deep**  is   *your
+!m  :s  .f   :- .l  :s     !- : .f%s,  :f%s,   .f%s,  :f%s,   .s%d     !d    :d       :d    :d
+!me, you _need*  to  show: ! *How_deep_is_your_love,**** !doo* _doo*    _doo* _doo*
 
-!- :- :- :- !s, .l,  :d .m     :- :f .r     !- :- :m    :f
-!   *  *  * !I_real->ly_need***  **to_know, !   *  cause we're
+!-       :-    :-       :-   !s, .l,  :d  .m    :-  :f  .r    !-  :-   :m    :f
+!   *     * *   *   *    *   !I  real-ly_>need**   **to_know, !    *    cause we're
+!- .d    :- .t, :- .l,  :-   !s, .l,  :l, .l,   :-  :l, .la,  !-  :-   :m    :f
+!  _love,* _how*   _deep*    !I  real-ly_>need**   **to_know, !    *    cause we're
+!d       :d     :d      :d   !f       :-  .f    :f  :-        !f  :d   :m    :f
+!doo*     doo*   doo*    doo !doo*        *doot  doo *   *    !doo doo, cause we're
 
-cols: HHHHHHHH FFTTTTTT FFHHHH
-s: *  *   *  *  *     *   *  *    *  *  * *  * *  * *  *     *  * *    *    *
-!s   .s  :s .s :s    .s  :- .s   !- :- :s*  /l*  /ta* !s    :- : .s   :l   .ta
-!liv-ing* in a  world_of* *fools !   * _break-ing*** _us* !down, * **when_they  all
+c: page 48
+cols: HHHHHHHH FFTTTTTT FHHHHHH
+s: *  *   *  *  *     *   *  *    *  *   * *  * *  * *      *     *      * *    *    *
+!s   .s  :s .s :s    .s  :- .s   !- :-  :s*  /l*  /ta*     !s    :-*    : .s   :l   .ta
+!liv-ing* in a  world_of* *fools !   *   break-ing*** _us* !down, *  *  **when_they  all
+!r   .m  :m .m :t,   .t, :- .ta, !- :-  :ta,* /d* /r*      !di   :-*    : .di  :di  .di
+!liv-ing* in a  world_of* *fools !   *   break-ing*** _us* !down, *  *  **when_they  all
+!d   .d  :d .d :d    .d  :- .s   !- :f  :r**    :ta,**     !l,   :- .l, :l,*   :-    .l,
+!liv-ing* in a  world_of* *fools !   doo doo**   doo**     !down,  *doot do *        *doot
 
-s: * *   *  *   *  *  *  *   *  *  * *  *   *     *  *   *   *   *  >$
-!-  .ta :- .l  :- .s :- .f  !- :- : .f :s  .la   !- :la :s  .f  :- .m
-!>should* * let *  us *  be !   *  * we be-long* !   to _you_and**  me,
+s: *20                                                                     >$
+!-  .ta :- .l  :- .s  :- .f  !-  :-       :   .f  :s  .la   !- :la :s  .f  :- .m
+!>should* * let *  us  *  be !    **    *      we  be-long* !   to _you_and**  me,
+!-  .di :- .di :- .di :- .d  !-  :-       :   .d  :ta .la   !- :d  :ta .la :- .s
+!>should* * let *  us  *  be !    **  *        we  be-long* !   to _you_and**  me,
+!l,     :m     :l,    :m     !r  :- .r    :r  .r  :m  .f    !- :f  :f  .f  :- .d
+!doo*    doo*   doo*   doo*  !doo   *doot _doo_we* be-long* !   to _you_and**  me,
 
-!- :d' :t   .t   :-   .l  !- :- :di  .r   :m  .f    !- .f :f .m   :- .f  :- .m_0.5
-!  _doo>doot_doo**  *doo. !   ****You_know_the_door !   to my bar-*   est   *soul,
 
-!-_2 .r :- : .m     :f  .s     !- .m :f .s    :- .m  :- .s     !- .m   :- .r_1.5 :- .d :r     .m
-!     *  * ***you're_the_light !   in my deep-*  est,   *dark- !   est  * _hour*      **you're_my
+!- :d'    :t   .t   :-   .l    !- :- :di  .r   :m  .f    !- .f :f .m   :- .f   :- .m_0.5
+!   doo   *doot_doo*     *doo. !   ****You_know_the_door !   to my bar-*   est    *soul,
+!- :m .d  :r        :m   .d    !- :- :l,  .t,  :di .d    !- .d :d .t,  :- .si, :- .s_0.5
+!   I  be- lieve*    _in>you.* !   ****You_know_the_door !   to my bar-*   est    *soul,
+!- :d     :m   .m   :-   .f    !- :r :m   .m   :m  .r    !- .r :l .si  :- .m   :- .s_0.5
+!   doo   *doot_doo*     *doo. !   ****You_know_the_door !   to my bar-*   est    *soul,
 
-!f  .f   :- .f   :- .m :- .r     !- .d :- : .d  :d  .l   !- .l  :- .l    :- .d'  :l .r'
-!sa- vior* _when*    I    *fall. !   *   ****And_you_may !   not   *think *  that_I*>care
+!-_2 .r  :-     :  .m    :f  .s     !- .m :f .s    :- .m  :- .s     !- .m   :- .r_1.5 :- .d :r     .m
+!     *   *  *  ***you're_the_light !   in my deep-*  est,   *dark- !   est  * _hour*      **you're_my
+!-_2 .f, :-     :-       :          !r_8  :m       :t,    :-        !s      :-        :-    :-
+!     *   *  *   *  *     *   *     !Ooh*  *  *     *  *   *  *     !   *    *  *      *  *   *     *
+!-_1.5   :- .s, :s,      :          !d_8  :-       :m     :-        !l      :-        :s    :-
+!     *    *doot _doo.*   *   *     !Ooh*  *  *     *  *   *  *     !   *    *  *      *  *   *     *
 
-s: * *  *  *    *  *    *   *     *  *  *   *    *  *    *  *       * *  *  *   **ds_al_$-$
-!- .t  :- .s   :- .s   :l  .d    !- .l :s  .l   :- .s   :m .s      ! .m :- .r :- :d  .r
-!   for   *you, ***when_you_know !>down* *in-_side   *that _I>real-* !  ly *  do  **and_it's
+!f  .f   :- .f   :- .m :- .r_2.5 !- .d :-   :  .d :d  .l   !- .l  :- .l    :- .d'  :l .r'
+!sa- vior* _when*    I    *fall. !   *     ****And_you_may !   not   *think *  that_I*>care
+!d       :-      :-    :-        !     :l,. :l,^  :-       !m_4   :r       :m      :d
+!ooh*     *  *    *  *  *  *     !   *  doot _doo* *   *   !ah *   *  *     *  *    *  *
+!r       :- .r   :r    :-        !     :s,. :s,^  :-       !f_4   :-       :-      :-
+!ooh*       *doot _doo* *  *     !   * doot  _doo* *   *   !ah *   *  *     *  *    *  *
 
-s: $ *  *    *    *  *    *  *  *   *    *  *    *      %
-!- :m  :r   .r   :- .d   !- :- .m  :m   .m :m   .m     !- .m :f  .s   :- .m :f   .s
+s: *20                                                                                **ds_al_$-$
+!- .t  :- .s   :- .s   :l  .d    !- .l :s  .l   :- .s   :m .s        ! .m   :- .r   :- :d  .r
+!   for   *you, ***when_you_know !>down* _in->_side* *that _I>real-* !  ly   *  do    **and_it's
+!t,_3  :fi     :m      :   .f    !-    :   .m   :-      :  .r        ! .d   :- .ta  :- :d  .r
+!   *   *  *    *  *       *know !   *     *side *  *      *real-    !  ly   *  do    **and_it's
+!-_3   :-      :-      :   .r    !-    :   .s   :-      :  .ta,      ! .ta, :- .ta, :- :d  .r
+!   *   *  *    *  *       *know !   *     *side *  *      *real-    !  ly   *  do    **and_it's
+
+s: $ *12                                                %
+!- :m  :r.  .r.  :- .d   !- :- .m  :m   .m  :m   .m    !- .m :f  .s   :- .m :f   .s
 !   doo doot_doo>doo.*** ! *****How_deep_is_your_love, !   so how_deep** _is_your_love,**
+!- :s, :t,. .s,^ :- .l,  !- :- .l,%f, :l,%f,  .l,%f, :l,%f,  .s,   !-    :r       :t,   :t,
+!   doo doot_doo>doo.*** ! *****How_deep_is_your_love, !   *  how*     deep* is
+!- :d  :m.  .m^  :- .s,  !- :- .s, :s,  .s, :s,  .d    !-    :d       :m    :m
+!   doo doot_doo>doo.*** ! *****How_deep_is_your_love, !   *  how*     deep* is
 
-s: * *  *  *  *  *  *  *     * *      *  *  *    *    *  *     *  *  *    *    *  *   (^)
-s: * *  *  *  *  *  *  *     * *      *  *  *    *    *  *     *  *  *    *    *  *   >ds
-!- .d' :- .t :- .s :- .m    ! .m_1.5 ,r :d :r   .r   :- .d    !- :- .m   :m   .m :m   .m    !!
-!>how*  *deep * is    *your ! _love,**      doot_doo*   *doo, !  *****how_deep_is_your_love !!
+s: *21      *(^)
+s: *22      >ds
+!- .d' :- .t :- .s :- .m    ! .m1.5+ ,r :d  :r.  .r^  :- .d    !- :- .m   :m   .m  :m   .m   !!
+!>how*  *deep * is    *your ! _love,**       doot_doo*   *doo, !  *****how_deep_is_your_love
+!d.%l, :d^%l, :-    :-       !s,         :m  :t,. .s,^ :- .f,   !- :- .l,%d :l,%d .l,%d :l,%d .s,%d
+!doot*  doo*  *  *  *  *    !doo*     *  doo doot_doo*   *doo, !  *****how_deep_is_your_love
+!f.    :f^   :-    :-       !d          :s, :m.  .m^  :- .s,   !- :- .s,  :s,  .s, :s,  .d
+!doot*  doo*  *  *  *  *    !doo*     *  doo doot_doo*   *doo, !  *****how_deep_is_your_love
