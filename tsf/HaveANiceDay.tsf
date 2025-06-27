@@ -3,9 +3,11 @@ C: Lorenz Maierhofer(*1956)
 
 K: D-Dur
 sql: 1.12cm
+bpm: 150
 
 latex: \footnotesize
 
+s: key:D
 !d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :t  :- ;l  !s  :f     ;m   :r   !!
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh _oh*    oh   oh! !!
 !d   .r :m   .s   ;- :- !f  :- .f   ;- :- ! :s  :- ;f  !m  :r     ;d   :t,  !!
@@ -15,12 +17,12 @@ latex: \footnotesize
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh    *be  dum  dum !!
 
 s: p:A
-!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !ma  :-     ;-     :-  !r  :-     ;-     :-
-!Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
-!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;-     :-  !r  :-     ;-     :-
-!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s    !la  :- .la ;- .la :la !s  :-     ;-     :-
-!Dum.**       Have*   a   nice !day, *    *     oh   !oh     *oh    *oh  oh !oh,   *be    *dum dum
-!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m    !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !ma  :-     ;- :-  !r  :-     ;-     :-
+!Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *  !ry. *  *   *  *   *
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;- :-  !r  :-     ;-     :-
+!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s    !la  :- .la ;- :la !s  :-     ;-     :-
+!Dum.**       Have*   a   nice !day, *    *     oh   !oh     *oh  *  oh !oh,   *be    *dum dum
+!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m    !f   :- .f  ;- :f  !s  :- .s, ;- .l, :t,
 
 !d   .r :m   .s   ;-     :-    !-  :m    ;r :d    !r    :s  ;fi  .l  :- .s   !- :-    ;-  :-
 !Have_a_nice_day******         !>move*    in your !world_of*>phan-ta-*  *sy! !   *  *  *   *
@@ -29,19 +31,19 @@ s: p:A
 !Dum.**       Have*   a   nice !day>move* in your !world_of*>phan-ta-*  *sy! !     *be dum dum
 !d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
 
-!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;-     :-  !r  :-     ;-     :-
-!Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *   *  !ry. *  *   *  *   *
-!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;-     :-  !r  :-     ;-     :-
-!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- .la :la !s  :-     ;-     :-
-!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh    *oh  oh !oh,   *be    *dum dum
-!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- .f  :f  !s  :- .s, ;- .l, :t,
+!d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;- :-  !r  :-     ;-     :-
+!Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *  !ry. *  *   *  *   *
+!d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;- :-  !r  :-     ;-     :-
+!d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- :la !s  :-     ;-     :-
+!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh  *  oh !oh,   *be    *dum dum
+!d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- :f  !s  :- .s, ;- .l, :t,
 
-s: *  *  *    *    *   *  *     *    *    *     *     *    *   *  *    $   *  *  *
+s: *  *  *    *    *   *  *     *    *    *     *    (snap)   *   *  *    $   *  *  *
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !    :m  ;- :r   !d  :- ;- :  !!
 !Isn't_it_fine,******          !     it's _made_for* !     you *  and !me. *  *  * !!
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !    :t, ;- :t,  !d  :- ;- :  !!
 !d'     :-   .-   ;ta .- :-    !l   :-   ;la   :-    !    :s  ;- :s   !d' :- ;- :  !!
-!oh*     *    *   _oh*    *    !oh   *    oh    *    !     you *  and !me. *  *  * !!
+!oh*     *    *   _oh*    *    !oh   *    oh    *    !x    you *  and !me. *  *  * !!
 !d      :-   .d   ;- .d  :d    !d   :d   ;d    :d    !    :s, ;- :s,  !d  :- ;- :  !!
 !dum,*   *    have*   a   nice !day, it's _made_for* !     you *  and !me. *  *  * !!
 
@@ -81,12 +83,12 @@ s: *   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
 !d'   :- :d' :- !f   :- :d' :- !d' :- .d' :- .d' :t    !l   :- :- :
 !f    :- :f  :- !f   :- :f  :- !d  :- .d  :- .d  :s,   !l   :- :- :
 
-s: * * *  *  *  *       *  *  *    *    * *   *  *    *   stimmlos**
-!d .r :m .s :- :-      !- :m :r   :d   ! :m  :- :r   !d  :s  :d'   :  !!
-!d .r :m .s :- :-      !- :m :r   :d   ! :t, :- :t   !d  :f  :m    :  !!
-!have_a_nice_day,***** ! it's made for !  you *  and !me! Oh  yeah! * !!
-!d .r :m .s :- :-      !- :m :r   :d   ! :s  :- :s   !d' :l  :l    :  !!
-!d .r :m .s :- :-      !- :m :r   :d   ! :s, :- :s,  !d  :s, :d    :  !!
+s: * * *  *  *  *       *  *  *    *    (snap) *   *  *    *   stimmlos**
+!d .r :m .s :- :-      !- :m :r   :d   !      :m  :- :r   !d  :s  :d'   :  !!
+!d .r :m .s :- :-      !- :m :r   :d   !      :t, :- :t   !d  :f  :m    :  !!
+!have_a_nice_day,***** ! it's made for !x      you *  and !me! Oh  yeah! * !!
+!d .r :m .s :- :-      !- :m :r   :d   !      :s  :- :s   !d' :l  :l    :  !!
+!d .r :m .s :- :-      !- :m :r   :d   !      :s, :- :s,  !d  :s, :d    :  !!
 
 
 
