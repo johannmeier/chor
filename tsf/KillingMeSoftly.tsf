@@ -4,16 +4,17 @@ C: Charles Fox \\Text: Norman Gimbel
 K: C-Dur
 sql: 2.2cm
 
-!d'    .d'  :d .d  :- .l  :m .s       !- .f :- :- :
-!Strumming_my** pain  * with his fin- ! gers,*
-!m     .m   :m .m  :- .d  :t, .d      !- .d :- :- :
-!l     .l   :l .l  :- .l  :l, .r      !- .r :- :- :
+!d'    .d'  :d' .d' :- .l  :m .s       !- .f :- :- :
+!Strumming_my**  pain  * with his fin- ! gers,*
+!m     .m   :m  .m  :- .d  :t, .d      !- .d :- :- :
+!l     .l   :l  .l  :- .l  :l  .r      !- .r :- :- :
 
 !t     .t  :t .t   :- .s   :r  .m_3.5   !-  :- :-  :
 !sing- ing  my live * with  his>words.* !    *  *   *
-!f     .f  :f .f   :- .f   :r  .m_3.5   !m  :- :r  :
-!s     .s  :s .s   :- .l   :t  .d_3.5   !-  :- :t, :
+!f     .f  :f .f   :- .f   :r  .m_3.5   !-  :- :r  :
+!s     .s  :s .s   :- .l   :t  .d'_3.5  !-  :- :t  :
 
+s: b:5
 !m    .m   :m .m    :- .l :d' .t    !- .l   :- :r'  .r'  :r' .d'
 !Kill- ing  me soft- *  ly with his !>song,* *  kil- ling me  soft-
 !d    .d   :d .d    :- .d :m  .r    !- .fi  :- :s   .l   :l  .l
@@ -24,6 +25,7 @@ sql: 2.2cm
 !- .r :- :  :t,  .r   !- .d  :- . :s    .f   :l  .f
 !- .s :- :  :s   .f   !- .f  :- . :f    .f   :f  .d'
 
+s: b:9
 !- .s   :- : :d   .s   !- .f    :- . :f    .m   :m .m
 !   live *  * with his !>words,* *  * kill- ling me soft-
 !- .m   :- : :d   .s   !- .d    :- . :d    .d   :d .d
@@ -34,6 +36,7 @@ sql: 2.2cm
 !- .r  :- :- :- !- :- :ta  :r
 !- .ta :- :- :- !- :- :f   :ta
 
+s: b:13
 !m_7 :- :- :- !-  :- :- :
 !song *  *  * !    *  *
 !r_7 :- :- :- !di :- :- :
@@ -48,13 +51,14 @@ sql: 2.2cm
 !r   :r      :-       :r        !s   :s       :-      :s
 !Doot doo  *  *     *  du *     !doot doo *    *  *   doo
 
+s: b:17
 !s        :- .l :s    :f .m      !-   .f :- .d     :- :-
 !ooh, *    *  I  heard he had    !     a    *style. *  *
 !ooh, *   * em- _barr->assed* by !     the  *crowd. *  *
 !r   .m   :-    :m    :d .d      !-   .d :- .d     :- :-
 !doo  doo, *  *  heard he had    !     a    *style. *  *
 !doo  doo, *  * 'barr->assed* by !     the  *crowd. *  *
-!s        :s    :-    :ta        !l      :l        :- :m
+!d        :d    :-    :ta        !l      :l        :- :m
 !doot *    do *  *     doo *     !doot *  doo *     *  doo
 
 !f   :- .m  :f   .s :- .l     !- :- .s  :l   .t   :- .t
@@ -65,6 +69,7 @@ sql: 2.2cm
 !Ooh, *  *   *    *    *found !   *  my  let- ters *  and
 !r   :-     :-      :- .s     !- :- .s  :s   .s   :- .s
 
+s: b:21
 !d'  :t   .l  :- .s  :l      !-   :-   :-     :-
 !lis- ten  for *  a   while. !     *    *   *  *
 !read each one *  out loud.  !     *    *   *  *
@@ -81,7 +86,7 @@ sql: 2.2cm
 !while, *   *      doo *   *   !dim dim   *     dim *   dim
 !loud,  *   *      doo *   *   !dim dim   *     dim *   dim
 
-s: *13                                                      >dc
+s: b:25 *12                                                  >dc
 !s       :- .s  :s     :- .s    !si  .si   :- .l_2.5  :- .t :- !!
 !uh, *    *  a   stran- *  ger  !to   my    *  eyes    *  *  *
 !uh, *    *  but he     *  just !kept _right*  on      *  *  *
@@ -95,18 +100,20 @@ s: *13                                                      >dc
 !d'    .d'  :d .d  :- .l  :m .s       !- .f :- :- :
 !Strumming_my** pain  * with his fin- ! gers,*
 !m     .m   :m .m  :- .d  :t, .d      !- .d :- :- :
-!l     .l   :l .l  :- .l  :l, .r      !- .r :- :- :
+!l     .l   :l .l  :- .l  :l  .r      !- .r :- :- :
 
+s: b:29
 !t     .t  :t .t   :- .s   :r  .m_3.5   !-  :- :-  :
 !sing- ing  my live * with  his>words.* !    *  *   *
-!f     .f  :f .f   :- .f   :r  .m_3.5   !m  :- :r  :
-!s     .s  :s .s   :- .l   :t  .d_3.5   !-  :- :t  :
+!f     .f  :f .f   :- .f   :r  .m_3.5   !-  :- :r  :
+!s     .s  :s .s   :- .l   :t  .d'_3.5  !-  :- :t  :
 
 !m    .m   :m .m    :- .l :d' .t    !- .l   :- :r'  .r'  :r' .d'
 !Kill- ing  me soft- *  ly with his !>song,* *  kil- ling me  soft-
 !d    .d   :d .d    :- .d :m  .r    !- .fi  :- :s   .l   :l  .l
 !l    .l   :l .l    :- .s :s  .fi   !- .r   :- :m   .fi  :fi .s
 
+s: b:33
 !- .t :- :  :s   .t   !- .l  :- . :l    .l   :d' .l
 !   ly *  *  with his !>song,* *  * tell- ing _my>whole*
 !- .r :- :  :         !      :d   :-         :-
@@ -117,14 +124,13 @@ s: *13                                                      >dc
 !   live *   *  with his !>words,* *  * kill- ling me soft-
 !       :m  :- :d   .s   !- .d    :- . :d    .d   :d .d
 !   *    ah  *  with his !>words,* *  * kill- ling me soft-
-!       :d' :- :d   .s,  !- .l    :- . :l    .l   :l .ta
+!       :d' :- :d'  .s   !- .l    :- . :l    .l   :l .ta
 
 sql:1.46cm
-s: *11                                              ^
-!- :- :r    :- !- :-   :r      :r      !m   :- :-    :-  !!
-!   *  ly    * !   *    with    his    !song *  *     *
-!- :- :r_4  :- !d :ta, :l      :s      !    :  :di   :-
-!   *  ly *    !   *    with    his    !     *  song  *
-!- :- :ta_4 :- !f :r   :ta,%ta :ta,%ta !    :  :l,%l :-
-
+s: b:37 *10                                              ^
+!- :- :r    :- !- :-   :r      :r      !m   :- :-     :-  !!
+!   *  ly    * !   *    with    his    !song *  *      *
+!- :- :r_4  :- !d :ta, :l      :s      !    :  :di    :-
+!   *  ly *    !   *    with    his    !     *  song   *
+!- :- :ta_4 :- !f :r   :ta%ta, :ta%ta, !    :  :l%l, :-
 
