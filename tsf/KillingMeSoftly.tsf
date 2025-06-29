@@ -49,7 +49,7 @@ s: b:13
 !Doot doo, _I>heard* * *  *     !dut _a>good*  *  song *
 !Doot doo, I  felt  *  *  *     !dut  with fe- *  ver, *
 !r   :r      :-       :r        !s   :s       :-      :s
-!Doot doo  *  *     *  du *     !doot doo *    *  *   doo
+!Doot doo  *  *     *  doo *    !doot doo *    *  *   doo
 
 s: b:17
 !s        :- .l :s    :f .m      !-   .f :- .d     :- :-
@@ -59,7 +59,7 @@ s: b:17
 !doo  doo, *  *  heard he had    !     a    *style. *  *
 !doo  doo, *  * 'barr->assed* by !     the  *crowd. *  *
 !d        :d    :-    :ta        !l      :l        :- :m
-!doot *    do *  *     doo *     !doot *  doo *     *  doo
+!doot *    doo * *     doo *     !doot *  doo *     *  doo
 
 !f   :- .m  :f   .s :- .l     !- :- .s  :l   .t   :- .t
 !Mm,  *  and so   I  *  care  !   *  to  see  him  *  and
@@ -120,17 +120,18 @@ s: b:33
 !   ly *  *  *    *   !   *   ah * *     *    *   *
 !- .s :- :  :         !      :f   :-         :-
 
-!- .s   :-  :  :d   .s   !- .f    :- . :f    .m   :m .m
+sql: 2.2cm
+s: *10                                  key:F
+!- .s   :-  :  :d   .s   !- .f    :- . :f-d    .t,  :t, .m
 !   live *   *  with his !>words,* *  * kill- ling me soft-
-!       :m  :- :d   .s   !- .d    :- . :d    .d   :d .d
+!       :m  :- :d   .s   !- .d    :- . :d-s,   .s,  :s, .d
 !   *    ah  *  with his !>words,* *  * kill- ling me soft-
-!       :d' :- :d'  .s   !- .l    :- . :l    .l   :l .ta
+!       :d' :- :d'  .s   !- .l    :- . :l-m    .m   :m  .f
 
 sql:1.46cm
 s: b:37 *10                                              ^
-!- :- :r    :- !- :-   :r      :r      !m   :- :-     :-  !!
-!   *  ly    * !   *    with    his    !song *  *      *
-!- :- :r_4  :- !d :ta, :l      :s      !    :  :di    :-
-!   *  ly *    !   *    with    his    !     *  song   *
-!- :- :ta_4 :- !f :r   :ta%ta, :ta%ta, !    :  :l%l, :-
-
+!- :- :l,   :- !- :-   :l,   :l,   !t,  :- :-    :-  !!
+!   *  ly    * !   *    with  his  !song *  *     *
+!- :- :l,_4 :- !s, :f, :m    :r    !    :  :si,  :-
+!   *  ly *    !   *    with  his  !     *  song  *
+!- :- :f_4  :- !d  :l, :f%f, :f%f, !    :  :m%m, :-

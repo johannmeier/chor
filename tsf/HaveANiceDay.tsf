@@ -16,7 +16,7 @@ s: key:D
 !d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :s, :- ;s, !s, :- .s, ;l,  :t,  !!
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh    *be  dum  dum !!
 
-s: p:A
+s: b:5_p:A*
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !ma  :-     ;- :-  !r  :-     ;-     :-
 !Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;- :-  !r  :-     ;-     :-
@@ -31,6 +31,7 @@ s: p:A
 !Dum.**       Have*   a   nice !day>move* in your !world_of*>phan-ta-*  *sy! !     *be dum dum
 !d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
 
+s: b:13
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;- :-  !r  :-     ;-     :-
 !Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;- :-  !r  :-     ;-     :-
@@ -47,7 +48,7 @@ s: *  *  *    *    *   *  *     *    *    *     *    (snap)   *   *  *    $   * 
 !d      :-   .d   ;- .d  :d    !d   :d   ;d    :d    !    :s, ;- :s,  !d  :- ;- :  !!
 !dum,*   *    have*   a   nice !day, it's _made_for* !     you *  and !me. *  *  * !!
 
-s: p:B
+s: b:21_p:B*
 !d'  .l   :- .d' :- :- !t  .s :- .t  :- :- !   :l :s   :f   !m    .f :- .s    :-  :-
 !l   .m   :- .l  :- :- !s  .m :- .s  :- :- !   :f  :m  :r   !d    .r :- .m    :-  :-
 !Summer-**   _time,**  !winter-**  time,** !    on bad  and !rainy**     days,**
@@ -62,7 +63,7 @@ s: p:B
 !l,  :-   :l,  :l,   !m     :-       :- :m    .m   !f      :-     :-   :f   !s    :    :    :
 !dum, *    an-  y    !time,* *  *      **can't_you !hear*   *  *   *    the !voice!*    *    *
 
-s: * *  *   *  *  *  ^>dc*
+s: b:29 *  *   *  *  *  ^>dc*
 !s  :- :fi :- !f :- :- :  !!
 !m  :- :ri :- !r :- :- :  !!
 !you *  and * !me *  *  * !!
@@ -76,11 +77,11 @@ s: $
 !d' :d'  :d' :d'
 !d  :d   :d  :d
 
-s: *   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
+s: b:32   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
 !l    :- :l  :- !la  :- :la :- !s  :- .s  :- .l  :t    !d   :- :- :
 !f    :- :f  :- !f   :- :f  :- !m  :- .m  :- .m  :m    !m   :- :- :
 !world*   of  * !phan-*  ta- * !sy, *  have*  a   nice !day! *  *  *
-!d'   :- :d' :- !f   :- :d' :- !d' :- .d' :- .d' :t    !l   :- :- :
+!d'   :- :d' :- !d'  :- :d' :- !d' :- .d' :- .d' :t    !l   :- :- :
 !f    :- :f  :- !f   :- :f  :- !d  :- .d  :- .d  :s,   !l   :- :- :
 
 s: * * *  *  *  *       *  *  *    *    (snap) *   *  *    *   stimmlos**
@@ -89,6 +90,3 @@ s: * * *  *  *  *       *  *  *    *    (snap) *   *  *    *   stimmlos**
 !have_a_nice_day,***** ! it's made for !x      you *  and !me! Oh  yeah! * !!
 !d .r :m .s :- :-      !- :m :r   :d   !      :s  :- :s   !d' :l  :l    :  !!
 !d .r :m .s :- :-      !- :m :r   :d   !      :s, :- :s,  !d  :s, :d    :  !!
-
-
-
