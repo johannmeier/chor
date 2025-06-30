@@ -16,7 +16,7 @@ s: key:D
 !d   .r :m   .s   ;- :- !s  :- .s   ;- :- ! :s, :- ;s, !s, :- .s, ;l,  :t,  !!
 !Have_a_nice_day,*****  !doo   *doo, *  * !  oh  *  oh !oh    *be  dum  dum !!
 
-s: b:5_p:A*
+s: p:A
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d    !ma  :-     ;- :-  !r  :-     ;-     :-
 !Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;- :-  !r  :-     ;-     :-
@@ -31,7 +31,6 @@ s: b:5_p:A*
 !Dum.**       Have*   a   nice !day>move* in your !world_of*>phan-ta-*  *sy! !     *be dum dum
 !d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
 
-s: b:13
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;- :-  !r  :-     ;-     :-
 !Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;- :-  !r  :-     ;-     :-
@@ -48,7 +47,7 @@ s: *  *  *    *    *   *  *     *    *    *     *    (snap)   *   *  *    $   * 
 !d      :-   .d   ;- .d  :d    !d   :d   ;d    :d    !    :s, ;- :s,  !d  :- ;- :  !!
 !dum,*   *    have*   a   nice !day, it's _made_for* !     you *  and !me. *  *  * !!
 
-s: b:21_p:B*
+s: p:B*
 !d'  .l   :- .d' :- :- !t  .s :- .t  :- :- !   :l :s   :f   !m    .f :- .s    :-  :-
 !l   .m   :- .l  :- :- !s  .m :- .s  :- :- !   :f  :m  :r   !d    .r :- .m    :-  :-
 !Summer-**   _time,**  !winter-**  time,** !    on bad  and !rainy**     days,**
@@ -63,7 +62,7 @@ s: b:21_p:B*
 !l,  :-   :l,  :l,   !m     :-       :- :m    .m   !f      :-     :-   :f   !s    :    :    :
 !dum, *    an-  y    !time,* *  *      **can't_you !hear*   *  *   *    the !voice!*    *    *
 
-s: b:29 *  *   *  *  *  ^>dc*
+s: *  *   *  *  *  ^>dc*
 !s  :- :fi :- !f :- :- :  !!
 !m  :- :ri :- !r :- :- :  !!
 !you *  and * !me *  *  * !!
@@ -77,7 +76,7 @@ s: $
 !d' :d'  :d' :d'
 !d  :d   :d  :d
 
-s: b:32   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
+s:   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
 !l    :- :l  :- !la  :- :la :- !s  :- .s  :- .l  :t    !d   :- :- :
 !f    :- :f  :- !f   :- :f  :- !m  :- .m  :- .m  :m    !m   :- :- :
 !world*   of  * !phan-*  ta- * !sy, *  have*  a   nice !day! *  *  *

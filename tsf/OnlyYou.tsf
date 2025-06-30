@@ -12,7 +12,7 @@ s: key:G
 !m_8  :-    :- :- !-    :-    :- :-
 !m_8  :-    :- :- !-    :-    :- :-
 
-s: b:3 *10 >dc
+s: *10 >dc
 !f .m :d .s, :- :- !f .m :d .s, :- :- !!
 !ba da da da  *  * !ba da da da  *  *
 !-_8  :-     :- :- !-    :-     :- :-
@@ -34,7 +34,6 @@ s: p:A
 !d        :-   .d  :t,       :- .t,      !l,     :-   .s, :-      :-  .s,
 !Ba    *   *    ba  ba    *   *  ba      !ba *    *    ba  ba   *  *   ba
 
-s: b:7
 !-   :-     :- .m :m .m_2.5  !-   :- .f ,m :r   :-
 !  * *  **   can _you>hear*  !  *  *  *  *  me? * *  *
 !  * *  **  and _I>need*     !  *  *  *  *  you. **  *
@@ -62,7 +61,7 @@ s: b:7
 !d        :-  .d  :t,     :-   .t,     !l,       :-   .l, :s,       :-  .s,
 !ba   *    *   ba  ba  *   *    ba     !ba *      *    ba  ba   *    *   ba
 
-s: b:11 * *  *   *  *     *   *      * *  *  *  *  * *  *   * !!
+s: * *  *   *  *     *   *      * *  *  *  *  * *  *   * !!
 !-   :-     :- .m    :m  .m=2.5 !-   :- .f ,m :r   :-
 !  *  *  *    *won't you hear   !  *  *  *  *  me? * *  *
 !  *  *  *    *when  I   see    !  *  *  *  *  you. **  *
@@ -86,7 +85,6 @@ s: %>Refrain
 !f,_4 :-     :-       :-       !s,_4    :-       :- :-
 !Ooh   *   *  *     *  *   *   !     *   *  *     *  *
 
-s: b:15
 !     :m  .m :m    .m :r  .m   !r   .d :- .d   :- :- .d
 !      all I  need-ed* for an- !oth- er *  day, *  *  and
 !d_7.5 :-    :-       :-       !m      :-      :- :- .m
@@ -105,7 +103,7 @@ s: b:15
 !f, :f, :f, .f, :- .s,    !-  :- :- .s, :s, .d
 !all I   ev- er    *knew, !    *  *  on- ly you
 
-s: b:19_fine*
+s: fine
 s: ^
 !-_8  :-     :-   :-  !-   :-    :-   :- !!
 !   *  *  *   * *  *  !  *  *  *  * *  *
@@ -125,7 +123,6 @@ s: p:B
 !d    :- .d :t,    :- .t, !l,   :- .l, :s,  :-  .s,
 !Ba *  *  ba ba  *  *  ba !ba *  *  ba  ba * *   ba
 
-s: b:23
 !f .m :d .l, :- .l, :s, .l, !f .m :d .s, :-   :-
 !ba da da da  *  da  da  da !ba da da da, *    *
 !  .f :d     :  .f  :d      !  .s :m     : .r :t,
@@ -143,7 +140,7 @@ s: b:23
 !d    :- .d :t,   :- .t, !l,    :- .l, :s,   :- .s,
 !ba *  *  ba ba *  *  ba !ba *   *  ba  ba *  *  ba
 
-s: b:27 *13    >ds>(Ref.)*
+s: *13    >ds>(Ref.)*
 !f .m :d  .l,  :- .l, :s, .l, !f .m  :d .s :-   :-
 !ba da da  da   *  da  da  da !ba da  da da * *  *
 !  .f :d       :  .f  :d      !  .s  :m    : .r :t,

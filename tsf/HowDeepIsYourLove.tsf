@@ -17,7 +17,6 @@ s: key:E
 !>Doo_doo_doo***  *doo,     !   *   *  *  !doo  >doo_doo_doo_doo***** !   doo  *  *  *  *
 
 sql: 1.5cm
-s: b:5
 !m   :m .d  ;r   :m   .d      !- :   :di .r   :m   .f    !- .f :f  .r    :- .f   :- .m_0.5
 !rise in_the* mor->ning_sun** !    *I**feel_your_touch   !   in _the_pour-**  ing   *rain.
 !d   :d .d  ;s,  :s,  .l,     !- :   :l, .t,  :di  .d    !- .d :d   .t,  :- .si, :- .s_0.5
@@ -33,7 +32,6 @@ s: b:5
 !     *    *doot _doo.* *  *  !Ooh,*  *    *    *    *   *  *   !   *  *  *   * *  *    *
 
 c: page 47
-s: b:11
 !f   .f  :f .f :f   :m .r_2.5  !- :d    :  .d  :d  .l    !- .l :- .l :- .d' :l .r'
 !feel you in my arms _a->gain* !   *     ***and_you_come !  to *  me *  on  _a_sum-*
 !d       :-    :-   :-         !  :l,.  :l,^   :-        !m_4  :r    :m     :d
@@ -48,7 +46,7 @@ s: b:11
 !m_3   :-      :-      :  .r     !-    :    .f   :-      :   .ta,    ! .ta, :- .ta,  :- :d  .r
 !   *   *  *    *  *      *warm  !   *      *love *  *       *soft-  !  ly     *leave   *and it's
 
-s: b:17_%
+s: %
 !m  :s  .l   :- .d' :m'    !- : .m     :m    .m    :m    .m   !-    :-       :-    :-
 !me, you _need*  to  show: !    *How_deep_is_your_love,****   !  *   *   *    *  *  *  *
 !m  :m  .r   :- .f  :l     !- : .d     :d    .d    :d    .d   ! .s, :d  .t,  :- .l :- .s
@@ -65,7 +63,7 @@ s: b:17_%
 
 c: page 48
 cols: HHHHHHHH FFTTTTTT FHHHHHH
-s: b:23  *   *  *  *     *   *  *    *  *   * *  * *  * *      *     *      * *    *    *
+s: *   *  *  *     *   *  *    *  *   * *  * *  * *      *     *      * *    *    *
 !s   .s  :s .s :s    .s  :- .s   !- :-  :s*  /l*  /ta*     !s    :-*    : .s   :l   .ta
 !liv-ing* in a  world_of* *fools !   *   break-ing*** _us* !down, *  *  **when_they  all
 !r   .m  :m .m :t,   .t, :- .ta, !- :-  :ta,* /d* /r*      !di   :-*    : .di  :di  .di
@@ -81,7 +79,6 @@ s: *20                                                                     >$
 !l,     :m     :l,    :m     !r  :- .r    :r  .r  :m  .f    !- :f  :f  .f  :- .d
 !doo*    doo*   doo*   doo*  !doo   *doot _doo_we* be-long* !   to _you_and**  me,
 
-s: b:29
 !- :d'    :t   .t   :-   .l     !- :- :di  .r   :m  .f    !- .f :f .m   :- .f   :- .m_0.5
 !   doo   *doot_doo*     *doo.  !   ****You_know_the_door !   to my bar-*   est    *soul,
 !- :m .d  :r        :m   .d     !- :- :l,  .t,  :di .d    !- .d :d .t,  :- .si, :- .s_0.5
@@ -96,7 +93,6 @@ s: b:29
 !-_1.5   :- .s, :s,      :          !d_8  :-       :m     :-        !l      :-        :s    :-
 !     *    *doot _doo.*   *   *     !Ooh*  *  *     *  *   *  *     !   *    *  *      *  *   *     *
 
-s: b:35
 !f  .f   :- .f   :- .m :- .r_2.5 !- .d :-    :  .d   :d  .l  !- .l  :- .l    :- .d'  :l .r'
 !sa- vior* _when*    I    *fall. !   *       ****And_you_may !   not   *think *  that_I*>care
 !d       :-      :-    :-        !     :l,.  :l,^    :-      !m_4   :r       :m      :d
@@ -112,7 +108,7 @@ s: *20                                                                          
 !m_3   :-      :-      :   .r    !-    :   .s   :-      :  .ta,      ! .ta, :- .ta, :- :d  .r
 !   *   *  *    *  *       *know !   *     *side *  *      *real-    !  ly   *  do    **and_it's
 
-s: b:41_$ *12                                                %
+s: $ *12                                                %
 !- :m  :r.  .r.  :- .d   !- :- .m  :m   .m  :m   .m    !- .m :f  .s   :- .m :f   .s
 !   doo doot_doo>doo.*** ! *****How_deep_is_your_love, !   so how_deep** _is_your_love,**
 !- :s, :t,. .s,^ :- .l,  !- :- .l,%f, :l,%f,  .l,%f, :l,%f,  .s,   !-    :r       :t,   :t,

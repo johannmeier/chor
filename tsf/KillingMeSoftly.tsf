@@ -14,7 +14,6 @@ sql: 2.2cm
 !f     .f  :f .f   :- .f   :r  .m_3.5   !-  :- :r  :
 !s     .s  :s .s   :- .l   :t  .d'_3.5  !-  :- :t  :
 
-s: b:5
 !m    .m   :m .m    :- .l :d' .t    !- .l   :- :r'  .r'  :r' .d'
 !Kill- ing  me soft- *  ly with his !>song,* *  kil- ling me  soft-
 !d    .d   :d .d    :- .d :m  .r    !- .fi  :- :s   .l   :l  .l
@@ -25,7 +24,6 @@ s: b:5
 !- .r :- :  :t,  .r   !- .d  :- . :s    .f   :l  .f
 !- .s :- :  :s   .f   !- .f  :- . :f    .f   :f  .d'
 
-s: b:9
 !- .s   :- : :d   .s   !- .f    :- . :f    .m   :m .m
 !   live *  * with his !>words,* *  * kill- ling me soft-
 !- .m   :- : :d   .s   !- .d    :- . :d    .d   :d .d
@@ -36,7 +34,6 @@ s: b:9
 !- .r  :- :- :- !- :- :ta  :r
 !- .ta :- :- :- !- :- :f   :ta
 
-s: b:13
 !m_7 :- :- :- !-  :- :- :
 !song *  *  * !    *  *
 !r_7 :- :- :- !di :- :- :
@@ -51,7 +48,6 @@ s: b:13
 !r   :r      :-       :r        !s   :s       :-      :s
 !Doot doo  *  *     *  doo *    !doot doo *    *  *   doo
 
-s: b:17
 !s        :- .l :s    :f .m      !-   .f :- .d     :- :-
 !ooh, *    *  I  heard he had    !     a    *style. *  *
 !ooh, *   * em- _barr->assed* by !     the  *crowd. *  *
@@ -69,7 +65,6 @@ s: b:17
 !Ooh, *  *   *    *    *found !   *  my  let- ters *  and
 !r   :-     :-      :- .s     !- :- .s  :s   .s   :- .s
 
-s: b:21
 !d'  :t   .l  :- .s  :l      !-   :-   :-     :-
 !lis- ten  for *  a   while. !     *    *   *  *
 !read each one *  out loud.  !     *    *   *  *
@@ -86,7 +81,7 @@ s: b:21
 !while, *   *      doo *   *   !dim dim   *     dim *   dim
 !loud,  *   *      doo *   *   !dim dim   *     dim *   dim
 
-s: b:25 *12                                                  >dc
+s: *12                                                  >dc
 !s       :- .s  :s     :- .s    !si  .si   :- .l_2.5  :- .t :- !!
 !uh, *    *  a   stran- *  ger  !to   my    *  eyes    *  *  *
 !uh, *    *  but he     *  just !kept _right*  on      *  *  *
@@ -102,7 +97,6 @@ s: b:25 *12                                                  >dc
 !m     .m   :m .m  :- .d  :t, .d      !- .d :- :- :
 !l     .l   :l .l  :- .l  :l  .r      !- .r :- :- :
 
-s: b:29
 !t     .t  :t .t   :- .s   :r  .m_3.5   !-  :- :-  :
 !sing- ing  my live * with  his>words.* !    *  *   *
 !f     .f  :f .f   :- .f   :r  .m_3.5   !-  :- :r  :
@@ -113,7 +107,6 @@ s: b:29
 !d    .d   :d .d    :- .d :m  .r    !- .fi  :- :s   .l   :l  .l
 !l    .l   :l .l    :- .s :s  .fi   !- .r   :- :m   .fi  :fi .s
 
-s: b:33
 !- .t :- :  :s   .t   !- .l  :- . :l    .l   :d' .l
 !   ly *  *  with his !>song,* *  * tell- ing _my>whole*
 !- .r :- :  :         !      :d   :-         :-
@@ -129,7 +122,7 @@ s: *10                                  key:F
 !       :d' :- :d'  .s   !- .l    :- . :l-m    .m   :m  .f
 
 sql:1.46cm
-s: b:37 *10                                              ^
+s: *10                                              ^
 !- :- :l,   :- !- :-   :l,   :l,   !t,  :- :-    :-  !!
 !   *  ly    * !   *    with  his  !song *  *     *
 !- :- :l,_4 :- !s, :f, :m    :r    !    :  :si,  :-
