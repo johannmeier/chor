@@ -12,7 +12,7 @@ s: key:G
 !m_8  :-    :- :- !-    :-    :- :-
 !m_8  :-    :- :- !-    :-    :- :-
 
-s: *10 >dc
+s: *11 >dc
 !f .m :d .s, :- :- !f .m :d .s, :- :- !!
 !ba da da da  *  * !ba da da da  *  *
 !-_8  :-     :- :- !-    :-     :- :-
@@ -21,18 +21,18 @@ s: *10 >dc
 !-_8  :-     :- :- !-    :-     :- :-
 
 s: p:A
-!m    .m  :m   .m  :f    .m  :r .d       !- .d   :d   .d  :t,  .d :t, .l,
-!1.Looking* from the win- dow a- bove    !   it's like a  sto- ry of  love
-!2.Sometimes_when_I_think_of>your_name*******   ! * and it's on- ly _a>game*
-!3.This_is* gon- na take a long time      !   *    and  I >wonder_what's_mine,***
-!     .s  :m       :     .s  :r          !  .s   :m       :    .s :m
-!      Ba  da   *   *     ba  da *       !   ba   da   *   *    ba da  *
-!s    .s  :s   .s  :l    .s  :f .m       !- .m   :m   .m  :r   .m :r  .d
-!1.Looking* from the win- dow a- bove    !   it's like a  sto- ry of  love
-!2.Sometimes_when_I_think_of>your_name*******   ! * and it's on- ly _a>game*
-!3.This_is* gon- na take a long time      !   *    and  I >wonder_what's_mine,***
-!d        :-   .d  :t,       :- .t,      !l,     :-   .s, :-      :-  .s,
-!Ba    *   *    ba  ba    *   *  ba      !ba *    *    ba  ba   *  *   ba
+!m    .m  :m   .m  :f    .m  :r .d            !- .d=0.5 :d   .d  :t,  .d :t, .l,
+!1.Looking* from the win- dow a- bove         !   it's   like a  sto- ry of  love
+!2.Sometimes_when_I_think_of>your_name******* ! * and   it's on- ly _a>game*
+!3.This_is* gon- na take a long time          !   *      and  I >wonder_what's_mine,***
+!     .s  :m       :     .s  :r               !  .s     :m       :    .s :m
+!      Ba  da   *   *     ba  da *            !   ba     da   *   *    ba da  *
+!s    .s  :s   .s  :l    .s  :f .m            !- .m=0.5 :m   .m  :r   .m :r  .d
+!1.Looking* from the win- dow a- bove         !   it's   like a  sto- ry of  love
+!2.Sometimes_when_I_think_of>your_name******* ! * and    it's on- ly _a>game*
+!3.This_is* gon- na take a long time          !   *      and  I >wonder_what's_mine,***
+!d        :-   .d  :t,       :- .t,           !l,       :-   .s, :-      :-  .s,
+!Ba    *   *    ba  ba    *   *  ba           !ba *      *    ba  ba   *  *   ba
 
 !-   :-     :- .m :m .m_2.5  !-   :- .f ,m :r   :-
 !  * *  **   can _you>hear*  !  *  *  *  *  me? * *  *
@@ -62,13 +62,13 @@ s: p:A
 !ba   *    *   ba  ba  *   *    ba     !ba *      *    ba  ba   *    *   ba
 
 s: * *  *   *  *     *   *      * *  *  *  *  * *  *   * !!
-!-   :-     :- .m    :m  .m=2.5 !-   :- .f ,m :r   :-
+!-   :-     :- .m    :m  .m=2.5 !m   :- .f ,m :r   :-
 !  *  *  *    *won't you hear   !  *  *  *  *  me? * *  *
 !  *  *  *    *when  I   see    !  *  *  *  *  you. **  *
 !  *  *  *   *  be- _hind_a*    !closed***    *door **  *
 ! .f :d     :  .d    :l,        ! .s :m       : .r :t,
 !  ba da *   *  ba    da  *     !  ba da *  *  * ba da *
-!-   :-     :- .s    :s  .s=2.5 !-   :-       :s   :-
+!-   :-     :- .s    :s  .s=2.5 !s   :-       :s   :-
 !     *  *   * *won't you hear  !  *  *  *  *  me? * * *
 !  *  *  *    *when  I   see    !  *  *  *  *  you. **  *
 !  *  *  *   *  be- _hind_a*    !closed***    *door **  *
@@ -140,7 +140,7 @@ s: p:B
 !d    :- .d :t,   :- .t, !l,    :- .l, :s,   :- .s,
 !ba *  *  ba ba *  *  ba !ba *   *  ba  ba *  *  ba
 
-s: *13    >ds>(Ref.)*
+s: *14    >ds>(Ref.)*
 !f .m :d  .l,  :- .l, :s, .l, !f .m  :d .s :-   :-
 !ba da da  da   *  da  da  da !ba da  da da * *  *
 !  .f :d       :  .f  :d      !  .s  :m    : .r :t,

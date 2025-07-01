@@ -10,7 +10,7 @@ sql: 2.2cm
 !l     .l   :l  .l  :- .l  :l  .r      !- .r :- :- :
 
 !t     .t  :t .t   :- .s   :r  .m_3.5   !-  :- :-  :
-!sing- ing  my live * with  his>words.* !    *  *   *
+!sing- ing  my live * with _his>words.* !    *  *   *
 !f     .f  :f .f   :- .f   :r  .m_3.5   !-  :- :r  :
 !s     .s  :s .s   :- .l   :t  .d'_3.5  !-  :- :t  :
 
@@ -81,7 +81,7 @@ sql: 2.2cm
 !while, *   *      doo *   *   !dim dim   *     dim *   dim
 !loud,  *   *      doo *   *   !dim dim   *     dim *   dim
 
-s: *12                                                  >dc
+s: *13                                                  >dc
 !s       :- .s  :s     :- .s    !si  .si   :- .l_2.5  :- .t :- !!
 !uh, *    *  a   stran- *  ger  !to   my    *  eyes    *  *  *
 !uh, *    *  but he     *  just !kept _right*  on      *  *  *
@@ -122,7 +122,7 @@ s: *10                                  key:F
 !       :d' :- :d'  .s   !- .l    :- . :l-m    .m   :m  .f
 
 sql:1.46cm
-s: *10                                              ^
+s: *11                                              ^
 !- :- :l,   :- !- :-   :l,   :l,   !t,  :- :-    :-  !!
 !   *  ly    * !   *    with  his  !song *  *     *
 !- :- :l,_4 :- !s, :f, :m    :r    !    :  :si,  :-

@@ -21,21 +21,21 @@ s: p:A
 !Have_a_nice_day,******        !     you _need-_n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d    !d   :-     ;- :-  !r  :-     ;-     :-
 !d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s    !la  :- .la ;- :la !s  :-     ;-     :-
-!Dum.**       Have*   a   nice !day, *    *     oh   !oh     *oh  *  oh !oh,   *be    *dum dum
+!Dum.**      _Have*   a   nice !day, *    *     oh   !oh     *oh  *  oh !oh,   *be    *dum dum
 !d      :-   .d   ;- .d  :d    !d   :-   ;-    :m    !f   :- .f  ;- :f  !s  :- .s, ;- .l, :t,
 
 !d   .r :m   .s   ;-     :-    !-  :m    ;r :d    !r    :s  ;fi  .l  :- .s   !- :-    ;-  :-
-!Have_a_nice_day******         !>move*    in your !world_of*>phan-ta-*  *sy! !   *  *  *   *
+!Have_a_nice_day******         !    move in your !world_of*>phan-ta-*  *sy! !   *  *  *   *
 !d   .r :r   .m   ;-     :-    !-  :d    ;r :d    !r    :r  ;r   .d  :- .t,  !- :-    ;-  :-
 !d'     :-   .d'  ;- .d' :d'   !l  :s    ;s :s    !t    :t  ;s   .r' :- .r'  !- :-    ;-  :-
-!Dum.**       Have*   a   nice !day>move* in your !world_of*>phan-ta-*  *sy! !     *be dum dum
+!Dum.**      _Have*   a   nice !day move  in your !world_of*>phan-ta-*  *sy! !     *be dum dum
 !d      :-   .d   ;- .d  :d    !d :d     ;d :m    !s    :s  ;r   .fi :- .s   !- :- .f ;m  :r
 
 !d   .r :m   .s   ;-     :-    !-   :m   ;r    :d   !ma  :-     ;- :-  !r  :-     ;-     :-
 !Have_a_nice_day,******        !     you _need-n't* !wor- *  *   *  *  !ry. *  *   *  *   *
 !d   .r :d   .m   ;-     :-    !-   :d   ;r    :d   !d   :-     ;- :-  !r  :-     ;-     :-
 !d'     :-   .d'  ;- .d' :d'   !l_3 :s   ;-    :s   !la  :- .la ;- :la !s  :-     ;-     :-
-!Dum.**       Have*   a   nice !day, *    *     oh  !oh     *oh  *  oh !oh,   *be    *dum dum
+!Dum.**      _Have*   a   nice !day, *    *     oh  !oh     *oh  *  oh !oh,   *be    *dum dum
 !d      :-   .d   ;- .d  :d    !d   :-   ;-    :m   !f   :- .f  ;- :f  !s  :- .s, ;- .l, :t,
 
 s: *  *  *    *    *   *  *     *    *    *     *    (snap)   *   *  *    $   *  *  *
@@ -62,7 +62,7 @@ s: p:B*
 !l,  :-   :l,  :l,   !m     :-       :- :m    .m   !f      :-     :-   :f   !s    :    :    :
 !dum, *    an-  y    !time,* *  *      **can't_you !hear*   *  *   *    the !voice!*    *    *
 
-s: *  *   *  *  *  ^>dc*
+s: *6  ^>dc*
 !s  :- :fi :- !f :- :- :  !!
 !m  :- :ri :- !r :- :- :  !!
 !you *  and * !me *  *  * !!
@@ -76,7 +76,7 @@ s: $
 !d' :d'  :d' :d'
 !d  :d   :d  :d
 
-s:   *  *   *  *    *  *   *  *   *  *   *  *   *     *    *  ^
+s:   *16                                                        ^
 !l    :- :l  :- !la  :- :la :- !s  :- .s  :- .l  :t    !d   :- :- :
 !f    :- :f  :- !f   :- :f  :- !m  :- .m  :- .m  :m    !m   :- :- :
 !world*   of  * !phan-*  ta- * !sy, *  have*  a   nice !day! *  *  *
