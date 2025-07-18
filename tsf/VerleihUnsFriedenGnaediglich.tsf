@@ -4,13 +4,12 @@ C: Felix Mendelssohn Bartholdy 1809-1847\\Text: Martin Luther 1529
 c: latex:\renewcommand\stfs{\footnotesize}
 small:
 
-
 sql: 0.85cm
 s: getragen**
 s: key:Eb_mf**
-!d   :m   :r  !d    :- :d   !d_2 :s   :f !m    :- :m  !l    :- :s  !f_2 :m :d_ .r !m   :- :-
-!Ver-leih*uns !Frie-*   den !gnä->dig-** !lich,*>Herr !Gott,*   zu !un-    **sern !Zei-*   *
-!m   :s   :s  !m    :- :s   !d_2 :m   :r !d    :- :d' !d'   :- :t  !s   :- :l     !l_3 :- :si
+!d   :m   :r  !d    :- :d   !d_2 :s   :f !m    :-/ :m  !l    :- :s  !f_2 :m :d_ .r !m   :- :-
+!Ver-leih*uns !Frie-*   den !gnä->dig-** !lich,*>Herr  !Gott,*   zu !un-    **sern !Zei-*   *
+!m   :s   :s  !m    :- :s   !d_2 :m   :r !d    :-/ :d' !d'   :- :t  !s   :- :l     !l_3 :- :si
 
 s: *3       cresc* *   *  *  *  *  *   *  *    *   *  *     *  * f
 !d   :- :- !d :f  :m_ .r !r :- :- !r     :s   :s_ .f !m    :- : !s  :d' :ta  !l_2    :s   :f_ .s
@@ -24,7 +23,7 @@ s: *3       cresc* *   *  *  *  *  *   *  *    *   *  *     *  * f
 
 sql: 0.74375cm
 s: *9                          p     *     *  *  *  *  dim.*
-!l  :s  :f     !m  :- :- !- : :m    !l_5  :- :- !- :s :f    !m_3 :r :-   !d   :- :- !-  :- :-
+!l  :s  :f     !m  :- :- !- : :m    !l_5  :- :- !- :s :f    !m_3 :r :-   !d   :- :- !-  :- :- !!
 !du, un- _ser* !Gott,* * !    *denn !du    *  * !   *  al-  !lei-*   *   !ne,  *  * !    *  *
 !l  :-  :l_ .t !d' :- :- !- : :d'   !d'_5 :- :- !- :t :l    !s   :- :f   !m_3 :r :- !m  :- :-
 !un- *  _ser*  !Gott,* * !    *denn !du    *  * !     *denn !du   *  al- !lei-*   * !ne. *  *
