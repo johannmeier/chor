@@ -1,29 +1,46 @@
 T: 34 Verleih uns Frieden gnädiglich, EKG 139
-C: Felix Mendelssohn Bartholdy 1809-1847\\Text: Martin Luther 1529
+C: Felix Mendelssohn Bartholdy 1831\\Text: Martin Luther 1529
 
 c: latex:\renewcommand\stfs{\footnotesize}
 small:
 
 sql: 0.85cm
-s: getragen**
-s: key:Eb_mf**
-!d   :m   :r  !d    :- :d   !d_2 :s   :f !m    :-/ :m  !l    :- :s  !f_2 :m :d_ .r !m   :- :-
-!Ver-leih*uns !Frie-*   den !gnä->dig-** !lich,*>Herr  !Gott,*   zu !un-    **sern !Zei-*   *
-!m   :s   :s  !m    :- :s   !d_2 :m   :r !d    :-/ :d' !d'   :- :t  !s   :- :l     !l_3 :- :si
+s: key:Eb_getragen*****
+s: mf *    *   *   *     *  *    *     *   *    *  *   *     *   *   *     *  *   *     *  dim.* p
+!d   :m   :r      !d    :- :d   !d_2  :s       :f     !m    :-/ :m  !l    :- :s  !f_2  :m :d_ .r !m   :- :-
+!s,  :d   :d_ .t, !d    :- :ta, !l,_2 :d       :- .t, !d    :-  :m  !f    :- :r  !r_2  :d :d     !d_3 :t, :-
+!Ver-leih* _uns*  !Frie-*   den !gnä->dig-****        !lich,*>Herr  !Gott,*   zu !un-     **sern !Zei-*    *
+!m   :s   :s      !m    :- :s   !d_2  :m       :r     !d    :-/ :d' !d'   :- :t  !s    :- :l     !l_3 :- :si
+!d   :d   :s,     !l,   :- :m,  !f,_2 :m,+ .f, :s,    !d    :-  :d  !f,   :- :s, !t_2, :d :f     !m   :- :-
 
-s: *3       cresc* *   *  *  *  *  *   *  *    *   *  *     *  * f
-!d   :- :- !d :f  :m_ .r !r :- :- !r     :s   :s_ .f !m    :- : !s  :d' :ta  !l_2    :s   :f_ .s
-!ten! *  * !Es ist*>doch !ja *  * !kein* _and-rer**  !nicht,* * !der für uns !könn-**      te*
-!l   :- :  !m :f  :s_ .l !t :- :- !s_ .f :m   :r     !m    :- : !m  :f  :s   !l_2 .ta :d' :s
+s: *3       cresc* *    *  *   *  *  *   *  *    *   *  *     *  * f
+!d   :- :  !d  :f  :m_ .r !r  :- :- !r     :s   :s_ .f !m    :- : !s      :d' :ta  !l_2      :s   :f_ .s
+!d   :- :  !d  :r  :d     !t, :- :- !t,    :d   :r     !s,   :- : !d      :r  :m   !f_2      :m   :r
+!ten! *  * !Es  ist*>doch !ja  *  * !kein* _and-rer**  !nicht,* * !der*    für uns !könn-**       _te*
+!l   :- :  !m  :f  :s_ .l !t  :- :- !s_ .f :m   :r     !m    :- : !m*     :f  :s   !l+_2 .ta :d' :s
+!l,  :- :  !l, :r  :m  .f !s  :- :- !s,*   :l,  :t,    !d    :- : !d+ .ta, :l, :d  !f_2      :d  :r
 
-!l      :-  :-   !l,    :- :      !      :  :    ! : :      !     :  :   !   :   :l_ .t !d'_3 :- :f
-!strei-**    *   !ten,*     *  *  !       *  *   !  * *   * !      *  *  !       **denn !du,   *  *
-!m_+ .f :s  :f   !m_2.5 :l :- .l  !l     :- :l,  ! : :l_ .t !d'_3 :- :ta !l  :s  :f     !m    :- :-
-!der*    für uns !könn-*      *te !strei-*   ten !  * denn* !du,   *  *  !du, un- _ser* !Gott*    *
+s: *  *  *   *   *       *  *  *  *       *  *   *    *   *   * *      *  *  *    *  cresc* *      *  *
+!l      :-  :-   !l,    :- :      !      :  :    !   :   :      !     :  :   !   :   :l_ .t !d'_3 :- :ta
+!strei-**    *   !ten,*     *  *  !       *  *   !    *   *   * !      *  *  !       **denn !du,   *  *
+s: *  *  *   *   *       *  *  *  *       *  *   *    *   *   * *      *  p   cresc*  *   * *      *  *
+!d_3 .r :m  :r   !d     :- :      !      :  :    !   :   :      !     :  :m  !f  :m  :r     !s    :- :-
+!strei-**    *   !ten,*     *  *  !       *  *   !    *   *   * !      *denn !du, un- _ser* !Gott*    *
+s: *  *  *   *   *       *  *  *  *       *  *   *    *   p   * *      *   *  cresc*  *   * *      *  *
+!m_+ .f :s  :f   !m_2.5 :l :- .l  !l     :- :l,  !   :   :l_ .t !d'_3 :- :ta !l  :s  :f     !m    :- :-
+!der*    für uns !könn-*      *te !strei-*   ten !    *   denn* !du,   *  *  !du, un- _ser* !Gott*    *
+s: *  *  *   *   *       *  *  *  *       *  p    cresc*  *   * *      *  *  *    *   *   * *      *  *
+!l,     :-  :-   !l,    :- :      !      :  :m   !f  :m  :r     !m    :- :d  !r  :-  :-     !m    :- :m
+!strei-**    *   !ten,   *  *  *  !        *denn !du, un- _ser* !Gott,*>denn !du, *   *   * !Gott,*>denn
+
 
 sql: 0.74375cm
-s: *9                          p     *     *  *  *  *  dim.*
-!l  :s  :f     !m  :- :- !- : :m    !l_5  :- :- !- :s :f    !m_3 :r :-   !d   :- :- !-  :- :- !!
-!du, un- _ser* !Gott,* * !    *denn !du    *  * !   *  al-  !lei-*   *   !ne,  *  * !    *  *
-!l  :-  :l_ .t !d' :- :- !- : :d'   !d'_5 :- :- !- :t :l    !s   :- :f   !m_3 :r :- !m  :- :-
-!un- *  _ser*  !Gott,* * !    *denn !du    *  * !     *denn !du   *  al- !lei-*   * !ne. *  *
+s: *9                           p     *     *  *  *  dim.*
+!l  :s   :f     !m  :- :- !- : :m    !l_5  :- :- !- :s :f    !m_3 :r  :-   !d   :- :-  !-  :- :- !!
+!du, un- _ser*  !Gott,* * !    *denn !du    *  * !   *  al-  !lei-*    *   !ne,  *  *  !    *  *
+!d  :-   :r     !m  :- :- !- : :l,   !l,_5 :- :- !d :- :f    !d_3 :t, :-   !d   :- :s, !s, :- :-
+!un- *   _ser*  !Gott,* * !    *denn !du    *  * !   *  al-  !lei-*    *   !ne,  *  *  !    *  *
+!l  :-   :l_ .t !d' :- :- !- : :d'   !d'_5 :- :- !- :t :l    !s   :-  :f   !m_3 :r :-  !m  :- :-
+!un- *   _ser*  !Gott,* * !    *denn !du    *  * !     *denn !du   *   al- !lei-*   *  !ne. *
+!f  :m   :r     !l  :- :- !- : :l    !f,   :- :- !- :- :f,   !s,  :-  :-   !-   :- :-  !d  :- :-
+!du, uns-*ser   !Gott,* * !    *denn !du    *  * !   *  al-  !lei-*    *   !     *  *  !ne. *  *
